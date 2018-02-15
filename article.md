@@ -11,7 +11,10 @@ options: ""
 
 _Legendy dopingu, americký cyklista Lance Armstrong nebo britský sprinter Dwain Chambers, pod tlakem přiznali, jaký koktejl zakázaných látek brali. Než se pustíte do čtení, podívejte se, které to jsou a pro jaké sporty jsou typické. Kliknutím na podpůrný prostředek zjistíte, co umí – v dobrém i zlém._
 
-<wide><iframe src="https://dev.datarozhlas.cz/doping-game/" width="100%" height="600" scrolling="no" frameborder="0"></iframe></wide>
+<wide>
+    <div id="hra"></div>
+    <div id="details"></div>
+</wide>
 
 „Jde to až do roku 1968. V Rusku nikdy nebyly antidopingové kontroly. Tečka. Nikdy.“
 
