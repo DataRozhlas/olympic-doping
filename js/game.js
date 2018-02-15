@@ -24,7 +24,7 @@ $('.fet').on('click', function(e) {
 
     Object.keys(latky[fet]).forEach(function(key) {
         if (list_omit.indexOf(key) == -1) {
-            detail += key + ': ' +  latky[fet][key] + '<br>'
+            detail += '<b>' + key + ':</b> ' +  latky[fet][key] + '<br>'
         }
     })
 

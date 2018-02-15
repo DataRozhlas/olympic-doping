@@ -370,7 +370,7 @@ var list_omit=['sporty','Aplikace','zdroje','img','img_sporty','Skupina','Sporty
 $('.fet').on('click',function(e){$('.servisni').remove();var fet=$(this).attr("alt");$('.sel').removeClass('sel')
 $(this).addClass('sel')
 var detail='<div class="detail" alt="'+fet+'"><b>'+fet+'</b><br>'
-Object.keys(latky[fet]).forEach(function(key){if(list_omit.indexOf(key)==-1){detail+=key+': '+latky[fet][key]+'<br>'}})
+Object.keys(latky[fet]).forEach(function(key){if(list_omit.indexOf(key)==-1){detail+='<b>'+key+':</b> '+latky[fet][key]+'<br>'}})
 var imgs=''
 latky[fet].img_sporty.split(', ').forEach(function(key){imgs+='<img class="sportimg" src="img/'+key+'.gif">'});detail+='</div>'
 $('#details').html(detail)
