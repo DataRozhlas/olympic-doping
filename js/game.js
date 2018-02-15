@@ -1,15 +1,15 @@
 // namalovat zakladni zobrazeni
 var menu = '<div id="menu">'
 Object.keys(latky).forEach(function(l) {
-    menu += '<div alt="' + l + '" class="fet"><img src="img/' + latky[l].img + '.jpg" class="ico"><br>' + l + '</div>'
+    menu += '<div alt="' + l + '" class="fet"><img src="https://dev.datarozhlas.cz/olympiada-doping/img/' + latky[l].img + '.jpg" class="ico"><br>' + l + '</div>'
 })
 menu += '</div>'
 $('#hra').append(menu)
 $('#hra').append('<div id="hvezdy">'
-    + '<div class="persona Armstrong"><img alt="armstrong" src="img/armstrong.jpg" class="ico hvezda"><br>Armstrong</div>'
-    + '<div class="persona "><img alt="chambers" src="img/chambers.jpg" class="ico hvezda"><br>Chambers</div>'
+    + '<div class="persona Armstrong"><img alt="armstrong" src="https://dev.datarozhlas.cz/olympiada-doping/img/armstrong.jpg" class="ico hvezda"><br>Armstrong</div>'
+    + '<div class="persona "><img alt="chambers" src="https://dev.datarozhlas.cz/olympiada-doping/img/chambers.jpg" class="ico hvezda"><br>Chambers</div>'
     + '</div>')
-$('#hra').append('<div id="sport"><img class="sportimg" src="img/clovek.jpg"></div>')
+$('#hra').append('<div id="sport"><img class="sportimg" src="https://dev.datarozhlas.cz/olympiada-doping/img/clovek.jpg"></div>')
 $('#details').html('<p class="servisni">Vyberte si doping</p>')
 
 var list_omit = ['sporty', 'Aplikace', 'zdroje', 'img', 'img_sporty', 'Skupina', 'Sporty']
@@ -30,7 +30,7 @@ $('.fet').on('click', function(e) {
 
     var imgs = ''
     latky[fet].img_sporty.split(', ').forEach(function(key) {
-        imgs += '<img class="sportimg" src="img/' + key + '.gif">'
+        imgs += '<img class="sportimg" src="https://dev.datarozhlas.cz/olympiada-doping/img/' + key + '.gif">'
     });
 
     detail += '</div>'
@@ -58,10 +58,10 @@ $('.persona').on('click', function(e) {
     var per = e.target.alt;
 
     if (per == 'armstrong') {
-        $('#sport').html('<img class="sportimg" src="img/cyklo.gif">')
+        $('#sport').html('<img class="sportimg" src="https://dev.datarozhlas.cz/olympiada-doping/img/cyklo.gif">')
         $('#details').html('<b>' + unwind(armstrong) + '</b>')
     } else {
-        $('#sport').html('<img class="sportimg" src="img/sprint.gif">')
+        $('#sport').html('<img class="sportimg" src="https://dev.datarozhlas.cz/olympiada-doping/img/sprint.gif">')
         $('#details').html('<b>' + unwind(chambers) + '</b>')
     }
 
