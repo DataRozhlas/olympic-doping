@@ -13,6 +13,7 @@ body{
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
+    word-wrap: break-word;
 }
 
 #hvezdy {
