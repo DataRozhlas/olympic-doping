@@ -13,7 +13,6 @@ body{
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
-    word-wrap: break-word;
 }
 
 #hvezdy {
@@ -23,12 +22,13 @@ body{
 }
 
 .ico {
-    width: 50px;
+    width: 60px;
 }
 
 .fet, .persona {
     font-size: 9pt;
-    max-width: 60px;
+    max-width: 75px;
+    width: auto;
     padding: 5px;
     margin: 5px;
     cursor: pointer;
