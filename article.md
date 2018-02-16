@@ -30,7 +30,7 @@ Podezření na zapojení ruských institucí do dopingu ale poprvé zaznělo už
 
 <hr>
 
-<h1>Obsah</h1>
+<h2>Obsah</h2>
 <ul>
 <li><a href = "#kapitola1">Druhý dech státního dopingu</a></li>
 <li><a href = "#kapitola2">Kolik centimetrů přidají anabolika?</a></li>
