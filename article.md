@@ -213,7 +213,7 @@ Froome ovšem není sám, kdo trpí astmatem. „Déšť v závěrečných etap�
 
 „Je zajímavé, že zatímco v roce 1984 na Olympijských hrách v Los Angeles udávalo ponámahové astma deset procent sportovců, v roce 1994 na zimní olympiádě v Lillehammeru to bylo už šedesát procent,“ píše na svém webu klinický biochemik Libor Vítek z 1. lékařské fakulty Univerzity Karlovy. „Důvodem je zřejmě legalizace užívání těchto látek, pokud budou sportovci vedeni jako astmatici.“
 
-„Kdysi se Tour de France říkalo Tour de Pharmacy a nebylo to daleko od pravdy; dnes jsem přesvědčen, že je vrcholová cyklistika výrazně čistší,“ brání profesionální cyklistiku sportovní lékař Jiří Dostal. „Týmy kategorie UCI World Tour si dávají velký pozor, aby se nezapletly systémově s dopingem, protože by okamžitě přišly o sponzory a zničilo by je to. Pokud se sportovcoi prokáže doping, týmy se od něj obvykle distancují. Aktuální případ Chrise Frooma je snad jedinou výjimkou.“
+„Kdysi se Tour de France říkalo Tour de Pharmacy a nebylo to daleko od pravdy; dnes jsem přesvědčen, že je vrcholová cyklistika výrazně čistší,“ brání profesionální cyklistiku sportovní lékař Jiří Dostal. „Týmy kategorie UCI World Tour si dávají velký pozor, aby se nezapletly systémově s dopingem, protože by okamžitě přišly o sponzory a zničilo by je to. Pokud se sportovci prokáže doping, týmy se od něj obvykle distancují. Aktuální případ Chrise Frooma je snad jedinou výjimkou.“
 
 <a name=kapitola6></a>
 
