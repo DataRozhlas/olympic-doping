@@ -1,4 +1,4 @@
-var colors = ["#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477", "#66aa00", "#b82e2e", "#316395", "#994499", "#22aa99", "#aaaa11", "#6633cc", "#e67300", "#8b0707", "#651067", "#329262", "#5574a6", "#3b3eac"];
+var colors20 = ["#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477", "#66aa00", "#b82e2e", "#316395", "#994499", "#22aa99", "#aaaa11", "#6633cc", "#e67300", "#8b0707", "#651067", "#329262", "#5574a6", "#3b3eac"];
 
 var atletika = [
 {y: 1.46, test: 18876, poz: 276},
@@ -215,10 +215,10 @@ $(function () {
             type: 'line'
         },
         title: {
-            text: 'Pozitivní dopingové nálezy'
+            text: 'Positively tested athletes by sport'
         },
         subtitle: {
-            text: 'podle sportu, roky 2003 až 2010'
+            text: ''
         },
         xAxis: {
             categories: [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010]
@@ -229,12 +229,12 @@ $(function () {
             },
             min: 0,
             title: {
-                text: 'podíl pozitivních dopingových testů',
+                text: '% of positively tested',
             }
         },
         tooltip: {
             formatter: function() {
-                return ('Pozitivně testovaných: <b>' + this.y + ' % </b> (' + this.point.test + ' testů, ' + this.point.poz + ' nálezů)');
+                return ('Postitively tested: <b>' + this.y + ' % </b> (' + this.point.test + ' tests, ' + this.point.poz + ' positive)');
             },
             crosshairs: true
         },
@@ -243,101 +243,101 @@ $(function () {
         },
         credits: {
             href : 'https://docs.google.com/spreadsheets/d/1MSK4Rf9UCLDuTR8CkXDK69njIMVZdWM6_l978l85P0g/pub',
-            text : 'Zdroj: The Guardian'
+            text : 'Source: The Guardian'
         },
         plotOptions: {
         },
         series: [{
-            name: 'atletika',
-            data: atletika,
-            color: colors[0],
-            visible: false
-        }, {
-            name: 'baseball',
-            data: baseball,
-            color: colors[1],
-            visible: false
-        }, {
-            name: 'basketbal',
-            data: basketbal,
-            color: colors[2],
-            visible: false
-        }, {
-            name: 'biatlon',
-            data: biatlon,
-            color: colors[3]
-        }, {
-            name: 'cyklistika',
-            data: cyklistika,
-            color: colors[4]
-        }, {
-            name: 'fotbal',
-            data: fotbal,
-            color: colors[5],
-            visible: false
-        }, {
-            name: 'gymnastika',
-            data: gymnastika,
-            color: colors[6],
-            visible: false
-        }, {
-            name: 'kanoistika',
-            data: kanoistika,
-            color: colors[7],
-            visible: false
-        }, {
-            name: 'lední hokej',
-            data: lednihokej,
-            color: colors[8]
-        }, {
-            name: 'lukostřelba',
+            name: 'Archery',
             data: lukostrelba,
-            color: colors[9],
+            color: colors20[0],
             visible: false
         }, {
-            name: 'lyžování',
-            data: lyzovani,
-            color: colors[10],
+            name: 'Athletics',
+            data: atletika,
+            color: colors20[1],
             visible: false
         }, {
-            name: 'paralympijské sporty',
+            name: 'Baseball',
+            data: baseball,
+            color: colors20[2],
+            visible: false
+        }, {
+            name: 'Basketball',
+            data: basketbal,
+            color: colors20[3],
+            visible: false
+        }, {
+            name: 'Biathlon',
+            data: biatlon,
+            color: colors20[4]
+        }, {
+            name: 'Canoeing',
+            data: kanoistika,
+            color: colors20[5],
+            visible: false
+        }, {
+            name: 'Cycling',
+            data: cyklistika,
+            color: colors20[6]
+        }, {
+            name: 'Football',
+            data: fotbal,
+            color: colors20[7],
+            visible: false
+        }, {
+            name: 'Gymnastics',
+            data: gymnastika,
+            color: colors20[8],
+            visible: false
+        }, {
+            name: 'Ice hockey',
+            data: lednihokej,
+            color: colors20[9]
+        }, {
+            name: 'Paralympic sports',
             data: paralympiada,
-            color: colors[11],
+            color: colors20[10],
             visible: false
         }, {
-            name: 'ping pong',
-            data: pingpong,
-            color: colors[12],
-            visible: false
-        }, {
-            name: 'sportovní střelba',
+            name: 'Shooting',
             data: strelba,
-            color: colors[13],
+            color: colors20[11],
             visible: false
         }, {
-            name: 'tenis',
+            name: 'Skiing',
+            data: lyzovani,
+            color: colors20[12],
+            visible: false
+        }, {
+            name: 'Table tennis',
+            data: pingpong,
+            color: colors20[13],
+            visible: false
+        }, {
+            name: 'Tennis',
             data: tenis,
-            color: colors[14],
+            color: colors20[14],
             visible: false
         }, {
-            name: 'triatlon',
+            name: 'Triathlon',
             data: triatlon,
-            color: colors[15],
+            color: colors20[15],
             visible: false
         }, {
-            name: 'vodní sporty',
-            data: vodnisporty,
-            color: colors[16],
-            visible: false
-        }, {
-            name: 'volejbal',
+            name: 'Volleyball',
             data: volejbal,
-            color: colors[17],
+            color: colors20[16],
             visible: false
         }, {
-            name: 'vzpírání',
+            name: 'Water sports',
+            data: vodnisporty,
+            color: colors20[18],
+            visible: false
+        }, {
+            name: 'Weightlifting',
             data: vzpirani,
-            color: colors[18]
+            color: colors20[17]
         }]
     });
 

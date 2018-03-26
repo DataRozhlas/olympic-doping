@@ -1,15 +1,15 @@
-title: "Příběh dopingu od 70. let v NDR po olympiádu bez Rusů: za 5 procent navíc sportovci platí rakovinou i změnou pohlaví"
-perex: "Je to poprvé, kdy kvůli dopingové aféře na Hrách chybí celá země: Rusko. Závěry z vyšetřování ruské kauzy, uniklé dokumenty východoněmecké Stasi, analýza historických výsledků i týden stará kauza vrcholových běžkařů říkají, kolik sportovců dopuje a o kolik jsou lepší než ti čistí."
+title: "The story of doping from the 1970s in East Germany to the Olympics without Russia: what athletes pay for 5% increase in performance?"
+perex: "It is the first time that a whole country has been absent from the Olympics due to a doping scandal. The country is Russia. The conclusions of the investigation of the Russian case, leaked documents of the East German Stasi, an analysis of historical results and the one-week-old case of top-level cross-country skiers show how many athletes take drugs and how much better they are than those who don’t."
 authors: ["Jan Boček", "Jan Cibulka", "Markéta Adamcová"]
-published: "16. února 2018"
+published: "25. března 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/rusko_180214-183208_jab.png?itok=viVH4v7j
-coverimg_note: "Foto: Rusové na letošních olympijských hrách kvůli dopingu nastupují pod olympijskou vlajkou</a>"
+coverimg_note: "Photo: Russian athletes compete under the Olympic Flag at PyeongChang Games.</a>"
 styles: []
 libraries: ["https://code.jquery.com/jquery-3.1.1.min.js", "https://code.highcharts.com/highcharts.js"]
 options: ""
 ---
 
-_Americký cyklista Lance Armstrong nebo britský sprinter Dwain Chambers pod tlakem přiznali, jaké zakázané látky brali. Než se pustíte do čtení, poskládejte si jejich koktejl kliknutím na jejich obličej. Ostatní ikonky ukazují konrétní podpůrné prostředky: jejich rozkliknutím zjistíte, co umí – v dobrém i zlém._
+_American cyclist Lance Armstrong and British sprinter Dwain Chambers admitted under pressure what illegal substances they used to take. Before you start reading, you can make their cocktails by clicking on their faces. The other icons show specific performance enhancers; by clicking on them you will find out what they can do – both good and bad._
 
 <wide>
     <div id="hra"></div>
@@ -18,48 +18,48 @@ _Americký cyklista Lance Armstrong nebo britský sprinter Dwain Chambers pod tl
 
 <hr>
 
-„Jde to až do roku 1968. V Rusku nikdy nebyly antidopingové kontroly. Tečka. Nikdy.“
+“It goes all the way back to 1968. There never was anti-doping controls in Russia. Period. Ever.”
 
-„Ve všech letních sportech?“
+“Across all summer sports?”
 
-„Ve všech sportech.“
+“Every sport.”
 
-První hlas je Grigorij Rodčenko, bývalý ředitel antidopingové laboratoře v Moskvě. Druhý americký filmový režisér Bryan Fogel. Úryvek zazní v rok starém filmovém dokumentu Icarus, nominovaném na Oscara. Rodčenko, jeden z architektů ruského dopingového programu a autor [anabolického koktejlu](http://roidvisor.com/insider-reveals-secret-three-steroid-protocol-used-russian-athletes-london-olympics-sochi-olympics/) v něm po útěku do Spojených států rozkrývá státem řízený doping. Jeho obvinění sahají až k exministru sportu Vitaliji Mutkovi a prezidentu Vladimirovi Putinovi.
+The first voice is Grigory Rodchenkov, the former director of the anti-doping laboratory in Moscow. The second is American film director Bryan Fogel. This extract comes from the one-year-old Oscar-nominated film documentary Icarus, in which Rodchenkov, one of the architects of the Russian doping programme and the creator of [the anabolic cocktail](http://roidvisor.com/insider-reveals-secret-three-steroid-protocol-used-russian-athletes-london-olympics-sochi-olympics/), reveals the state-controlled doping after his escape to the United States. His allegations go all the way to ex-Minister of Sport, Vitaly Mutko, and President Vladimir Putin.
 
-Podezření na zapojení ruských institucí do dopingu ale poprvé zaznělo už dřív: v dokumentu _Jak Rusko vyrábí vítěze_ německé televize ARD, odvysílaném v prosinci 2014. V sedmdesátých a osmdesátých letech minulého století byl doping ve východním bloku – v čele s východními Němci a Sověty – veřejným tajemstvím. V roce 2014 ale zpráva, že se Rusové vrátili ke starým praktikám, pro většinu diváků působila přehnaně.
+The suspicion of Russian institutions being involved in doping was expressed earlier – in the German ARD television documentary _How Russia Makes Its Winners_, broadcast in December 2014. In the 1970s and 80s doping was an open secret in the Eastern Bloc, headed by East Germany and the Soviet Union. However, in 2014 the news that the Russians had returned to their old practices seemed exaggerated to most viewers.
 
 <hr>
 
-<h2>Obsah</h2>
+<h2>Contents</h2>
 <ul>
-<li><a href = "#kapitola1">Druhý dech státního dopingu</a></li>
-<li><a href = "#kapitola2">Kolik centimetrů přidají anabolika?</a></li>
-<li><a href = "#kapitola3">Uniklé dokumenty východoněmecké Stasi</a></li>
-<li><a href = "#kapitola4">Anabolika pro devítileté holky</a></li>
-<li><a href = "#kapitola5">Cyklistika je organizovaný zločin</a></li>
-<li><a href = "#kapitola6">Není těžké přečůrat antidopingové kontroly</a></li>
-<li><a href = "#kapitola7">Zapomeňte na kontroly, dopují desítky procent</a></li>
-<li><a href = "#kapitola8">Běžkařský skandál týden před Pchjong-čchangem</a></li>
-<li><a href = "#kapitola9">Rozhřešení</a></li>
+<li><a href = "#kapitola1">State doping’s second wind</a></li>
+<li><a href = "#kapitola2">How many centimetres can anabolics add?</a></li>
+<li><a href = "#kapitola3">Leaked Stasi documents</a></li>
+<li><a href = "#kapitola4">Anabolics for nine-year-old girls</a></li>
+<li><a href = "#kapitola5">Cycling is organized crime</a></li>
+<li><a href = "#kapitola6">Doping controls can be outsmarted easily</a></li>
+<li><a href = "#kapitola7">Forget the controls – drugs are taken by tens of percent</a></li>
+<li><a href = "#kapitola8">Cross-country skiing scandal a week before the Pyeongchang Olympics</a></li>
+<li><a href = "#kapitola9">Absolution</a></li>
 </ul>
 
 <hr>
 
 <a name=kapitola1></a>
 
-## Druhý dech státního dopingu
+## State doping’s second wind
 
-Mezinárodní antidopingová agentura _(WADA)_ se přesto pustila do šetření. Pověřila komisi, vedenou kanadským profesorem Richardem McLarenem. Měla odhalit, kdo všechno o dopingu věděl – a kdo ho řídil.
+In spite of that the World Anti-Doping Agency _(WADA)_ started investigating. It appointed a committee headed by Canadian Professor Richard McLaren. It was to discover who had known about doping and who had managed it.
 
-Část důkazů vyšetřovatelé sbírali v ruském Soči, místě konání zimní olympiády v roce 2014. Při nových detailních testech biologických vzorků ruských sportovců je čekalo překvapení: v moči dvou hokejistek našli mužskou DNA. Vzorek jiné ruské olympioničky – její jméno neznáme, víme jen, že jde o medailistku – obsahoval genetickou informaci dvou různých žen.
+The investigators gathered part of the evidence in the Russian city of Sochi, where the Winter Olympics took place in 2014. In new detailed tests of the Russian athletes’ biological samples a surprise awaited them: in two female hockey players’ urine they found male DNA. The sample of another Russian female Olympian, whose name we don’t know but we know she was a medallist, contained genetic information of two different women.
 
-Vedle genetických nonsensů vyšetřovatelé pod mikroskopem objevili také mechanické poškození lahviček, ve kterých se vzorky uchovávají. Ty mají být bez asistence antidopingových komisařů nedobytné – Rodčenko ale ve svých svědectvích popisuje, jak je agenti ruské tajné služby FSB na hrách v Soči denně otevírali a měnili vzorky za „čisté“. Vedle toho se vyšetřovatelé dostali také k uniklým emailům, které je nasměrovaly k přibližně tisícovce vrcholových sportovců, zapojených do dopingového programu.
+Besides genetic nonsense the investigators also discovered, under the microscope, that the bottles containing the samples had been mechanically damaged. These bottles are designed to be tamperproof and cannot be opened without the assistance of anti-doping commissioners but Rodchenkov in his testimonies describes how FSB agents at the Sochi Olympics opened them on a daily basis, swapping the samples for “clean” ones. Apart from that the investigators got access to leaked emails which led them to approximately a thousand top athletes involved in the doping programme.
 
-„Ministerstvo sportu za aktivní spolupráce FSB, CSP _(Centrum sportu, pozn. red.)_ a laboratoří v Moskvě a Soči řídilo, kontrolovalo a dohlíželo na manipulaci se vzorky sportovců a jejich záměnu,“ zněl závěr McLarenovy zprávy na konci roku 2016.
+“The Ministry of Sport directed, controlled and oversaw the manipulation of athletes‘ analytical results or sample swapping, with the active participation and assistance of the FSB, CSP [Centre of Sport Preparation], and both Moscow and Sochi Laboratories,” say the conclusion of the 2016 McLaren Report.
 
-Na letních hrách v Riu (2016) přesto Rusové nechyběli, podle úředníků Mezinárodního olympijského výboru prostě nebylo dost přímých důkazů.
+In spite of that the Russians were not absent from the Summer Olympics in Rio (2016) because according to the International Olympic Committee there simply wasn’t enough direct evidence.
 
-Trpělivost jim došla až teď. Chvíli před loňskými Vánocemi rozhodli na základě vlastního vyšetřování o vyloučení ruské reprezentace z olympiády v Pchjong-čchangu. Ruská reprezentace tedy v Koreji není – pod neutrální olympijskou vlajkou ale na akci přijede většina Rusů, kteří se na ni chystali. Nastoupí 159 ruských sportovců, jen o dvě desítky méně než před osmi lety ve Vancouveru.
+They only lost their patience recently. Shortly before last year’s Christmas, as a result of their own investigation, they decided to exclude the Russian representation from the Olympic Games in Pyeongchang. Therefore, the Russian representation is not in Korea but most Russians who have been preparing to compete will be taking part in the event under a neutral Olympic flag. 159 Russian athletes will be participating, which is only twenty fewer than eight years ago in Vancouver.
 
 <script src="https://d1ox703z8b11rg.cloudfront.net/assets/iframeResizer.js"></script>
 
@@ -69,240 +69,240 @@ Trpělivost jim došla až teď. Chvíli před loňskými Vánocemi rozhodli na 
 
 <a name=kapitola2></a>
 
-## Kolik centimetrů přidají anabolika?
+## How many centimetres can anabolics add?
 
-Jak velkou výhodu mají nadopovaní sportovci proti těm čistým – a zda mají ti druzí vůbec šanci je porážet – se zjišťuje poměrně těžko. Vzhledem k tomu, že je doping zakázaný a v řadě zemí světa i nelegální, máme k dispozici pramálo důvěryhodných studií.
+How much of an advantage the doped-up athletes have in comparison with the clean ones and whether the latter have any chance of beating them is very difficult to determine. Because doping is prohibited and in many countries also illegal, there are only very few reliable studies available.
 
-Pro představu o účinnosti dopingu tak nejlépe slouží svědectví z doby, kdy v některých sportech a některých částech světa „zobali“ téměř všichni. Tou dobou jsou sedmdesátá a především osmdesátá léta minulého století, kdy východní sportovci ve velkém polykali anabolické steroidy a antidopingové testy se zaváděly vždy s několikaletým zpožděním.
+As a result, the best sources from which we can get the idea of the effectiveness of doping are the testimonies from those times when in some sports and in some countries almost everybody took drugs. These times were the 1970s and especially the 1980s, when Eastern athletes used anabolic steroids on a large scale, and doping tests were always introduced with a delay of several years.
 
-Anabolika, například mužský hormon testosteron, zvyšují svalovou sílu a urychlují regeneraci. Tím umožňují vyšší tréninkové dávky a pozitivní zpětnou vazbu nárůstu síly. Zvlášť silně účinkují na  ženský organismus, ve kterém je hladina testosteronu přirozeně nižší než u mužů. Cenou za větší sílu je ale rozvoj sekundárních mužských pohlavních znaků: ať už těch viditelných, jako hlubší hlas nebo růst ochlupení, tak méně zřetelných, ale nebezpečnějších, jako vážné nemoci ledvin a jater nebo rozvoj rakoviny.
+Anabolics, such as the male hormone testosterone, enhance muscle development and speed up regeneration. Therefore, they enable higher training loads and positive feedback of increase in power. They have a particularly strong effect on the female organism, in which the level of testosterone is naturally higher than in men. However, the price paid for bigger power is the development of secondary male sexual characteristics, both visible, such as a lower-pitched voice or hair growth, and the less obvious but more dangerous ones, such as serious kidney and liver diseases or the development of cancer.
 
-Pozitivní efekty anabolik se projevily hlavně v silových disciplínách – vrhu koulí, hodu diskem nebo kladivem, ale také na krátkých a středně dlouhých běžeckých tratích. Naopak mezi vytrvalci anabolika příliš populární nebyla a nejsou – u těch jsou objemné svaly spíš na překážku. S výdrží pomáhají spíše později objevené látky, například erytropoetin, známý z cyklistických průšvihů.
+The positive effects of anabolics were shown especially in strength sports, such as the shot put, discus and hammer throw, but also in short- and middle-distance running. On the other hand, anabolics have never been very popular with long-distance runners because large muscles are more of a hindrance to them. Endurance can be enhanced by substances discovered later, e.g. erythropoietin, which is infamous due to its use in cycling.
 
-Data o nejlepších výkonech za jednotlivé roky v silových disciplínách proto dobře ilustrují vliv anabolik na výkon sportovce.
+Therefore, the data on the best performances in the individual years in strength sports illustrate the influence of anabolics on the athlete’s performance very well.
 
-_Následující grafy ukazují dvě sady dat: tečky reprezentují světové rekordy, souvislá čára nejlepší světové výkony v daném roce. Červené hodnoty mezi lety 1948 a 1991 odkazují na sportovce ze zemí východního bloku, černé hodnoty na ostatní země._
+_The following graphs show two sets of data: the dots represent world records, while continuous lines represent the world’s best performances in the given year. The red values between 1948 and 1991 refer to athletes from the Eastern Bloc, while the black ones refer to other countries._
 
-<wide><div style="overflow: hidden; box-sizing: border-box;"><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy/koule.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy/disk.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy/400m.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy/maraton.png" style="max-width: 100%; position: relative; float: left"/></div></wide>
+<wide><div style="overflow: hidden; box-sizing: border-box;"><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy/koule.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy/disk.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy/400m.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy/maraton.png" style="max-width: 100%; position: relative; float: left"/></div></wide>
 
-<img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy/legenda.png">
+<img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy/legenda.png">
 
-V prvních třech disciplínách se úspěšní atleti bez anabolik téměř neobešli. U všech je patrný nárůst výkonu v osmdesátých letech a pokles v devadesátých. Světový rekord sovětské koulařky Natalji Lisovské z roku 1987 je o 2,5 metru delší než loňský nejdelší výkon. V disku je rozdíl mezi rekordem východní Němky Gabriely Reinschové z roku 1988 a loňským výkonem 5,5 metru. U běhu na 400 metrů je rekordmankou opět východoněmecká atletka Marita Kochová, její výkon je o necelé dvě sekundy lepší než loňský nejlepší čas.
+In the first three events the successful athletes almost couldn’t do without anabolics. There is an obvious increase in performance in the 1980s and a decrease in the 90s in all of them. The Russian shot-putter Natalya Lisovskaya’s 1987 world record is longer by 2.5 metres that the previous year’s best performance. In discus throw the difference between the East German athlete Gabriela Reinsch’s 1988 record and the previous year’s performance is 5.5 metres. In the 400 metres the female record holder is again an East German athlete, Marita Koch, whose performance is almost two seconds better than the previous year’s best time.
 
-U běhu na 800 metrů, ve kterém drží světový rekord od roku 1983 česká běžkyně Jarmila Kratochvílová, je schodek v osmdesátých letech méně evidentní než právě na čtyřstovce. Přesto i u osmistovkařek výkyv naznačuje systematický doping.
+In the 800 metres, where the world record has been held since 1983 by the Czech runner, Jarmila Kratochvílová, the gap in the 1980s is less obvious than in the 400 metres. In spite of that, the deviation in the performances of the 800-metre runners suggests systematic doping.
 
-Viditelný rozdíl mezi výkony v osmdesátých letech a současnými nejlepšími výkony – u obou vrhačských disciplín téměř desetiprocentní, u běhu pětiprocentní – může velmi zhruba ilustrovat efekt pravidelného podávání anabolických steroidů.
+The obvious difference between the performances in the 1980s and the best current performances – which is almost 10% in both throws and 5% in running – can very roughly illustrate the effect of regular taking of anabolic steroids.
 
-Mužský maraton se minimálně do konce osmdesátých let, kdy nebyly rozšířené látky k podpoře vytrvalosti, považuje za čistý. Čtvrtá křivka tedy ilustruje vývoj nejlepšího výkonu bez anabolického výkyvu.
+The male marathon, at least until the end of the 1980s, when endurance enhancing substances hadn’t been widespread, is regarded as clean. The fourth curve illustrates the development of the best performance without the anabolic deviation.
 
-Následující grafy ukazují stejná data ve větším detailu. Soustředí se na sedmdesátá a osmdesátá léta, kdy bylo rozšíření anabolik největší. Neukazují tentokrát rekordy, pouze nejlepší výkony.
+The following graphs show the same data in greater detail. They focus on the 1970s and 80s, when anabolics were most widely spread. They don’t show records but only the best performances.
 
-<wide><div style="overflow: hidden; box-sizing: border-box;"><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy2/koule.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy2/disk.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy2/400m.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy2/maraton.png" style="max-width: 100%; position: relative; float: left"/></div></wide>
+<wide><div style="overflow: hidden; box-sizing: border-box;"><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/koule.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping-doping/fotky/grafy2/disk.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/400m.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/maraton.png" style="max-width: 100%; position: relative; float: left"/></div></wide>
 
-<img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/grafy2/legenda.png">
+<img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/legenda.png">
 
-V devadesátých letech a následujícím desetiletí se výkony ve vrhu koulí nebo hodu diskem nejen nezlepšují, postupně je dokonce vidět mírné zhoršení. Předpovídají ho studie východoněmeckých vědců: podle nich má _androgenní iniciace_ – podávání mužských hormonů dívkám a mladým ženám – permanentní efekt. Po počátečním zvýšení svalové síly a nárůstu výkonu už po vysazení anabolik nedojde k návratu na původní úroveň. Mnoho sportovkyň v devadesátých letech i později proto stále těžilo z předchozí dopingové kúry.
+In the 1990s and in the following decade performances in shot put or discus throw not only show no improvement but gradually they even become slightly worse. It is predicted by East German scientists’ studies – in their opinion _androgenic initiation_, i.e. administration of male hormones to girls and women, has a permanent effect. After the initial increase in muscle strength and performance enhancement the values don’t return to pre-treatment levels after the drug is withdrawn. So, many female athletes in the 1990s and later still benefitted from the previous doping treatment.
 
-„Pokud berete anabolické steroidy, tak krom akutního zvýšení síly a dynamiky je dlouhodobým efektem strukturální přestavba svalu,“ vysvětluje mechanizmus působení dopingu sportovní lékař Jiří Dostal. „To znamená vznik nových kapilár, mitochondrií a dalších struktur, které vedou k vyšší metabolické kapacitě, kterou byste poctivým tréninkem nedosáhli. Stačí je pak udržovat během zákazu závodů, poté se můžete vrátit jako čistý a vyhrávat.“
+“If you take anabolic steroids, then their long-term effect, besides the immediate increase in strength and dynamics, is the structural restoration of muscles,” says Czech sports doctor Jiří Dostal, explaining the effects of doping. “That means that new capillaries, mitochondrions and other structures are created leading to higher metabolic capacity unattainable by any hard training. They only need to be maintained when you are banned from competing and then you can return as ‘clean’ and start winning again.”
 
-„Nepředstavujte si ale, že začnete něco brát a bez dalšího úsilí budete podávat lepší výkony,“ upozorňuje Dostal. „Takhle zadarmo to není. Pokud si amatérský cyklista dá EPO, jeho časy se často nezmění nebo dokonce zhorší.“
+“But don’t think that you can simply start playing a sport and achieve better performances without any other effort,” says Dostal. “It’s not that easy. If an amateur cyclist takes EPO, his times don’t usually improve or they even become worse.”
 
-„Doping z nikoho neudělá olympijského vítěze,“ pokračuje Dostal. „Může ale přidat to konečné chybějící procento výkonu, který vás posune z třetího místa k vítězství. Vždy musí jít o vysoce trénované sportovce, u kterých nárůst výkonu v řádu jednotek procent znamená rozdíl mezi naprostou špičkou a první dvacítkou. Ale i tady jde o individuální záležitost. Sportovec, jehož limitací je využití kyslíku ve svalu a nízká aerobní kapacita, se může nacpat EPO až po hlavu, mít místo krve ‚marmeládu‘ a stejně mu to nepomůže,“ dodává.
+“Doping won’t make anyone an Olympic winner,” continues Dostal. “But it can add the missing percentage to the performance that will move you up from third to first place. These athletes must always be highly trained individuals in whom the increase by a few percent means the difference between the absolute top and the top twenty. But it is very individual. A sportsman whose limitation is the use of oxygen in muscles and low aerobic capacity may stuff himself with EPO and have ‘marmalade’ instead of blood but it won’t help him anyway,” he adds.
 
-Vedle zvýšení výkonu navíc doping často pomáhá tím, že sportovcům umožňuje ještě tvrdší tréninkovou dřinu.
+Apart from an increase in performance, doping also helps athletes train much harder.
 
-„Krutými tréninky je známá Jarmila Kratochvílová,“ [popisuje článek České televize](http://www.ceskatelevize.cz/sport/exkluzivne-na-ct-sport/265488-statem-rizeny-doping-v-cssr-aneb-strujce-neprekonatelnych-rekordu/) úsilí české běžecké rekordmanky. „Někdy běhala v bazénu po kolena napuštěném vodou s plynovou maskou na hlavě a oblečená do vesty se závažími. Před olympiádou v Moskvě prý navzpírala za rok 750 tun. Za jeden trénink zvedla v součtu až 16 tun, desetkrát za sebou musela vyskočit s činkou těžkou 110 kilogramů na zádech a za dopoledne dokázala na dráze uběhnout i 18 třístovek.“
+“An athlete famous for strenuous training is Jarmila Kratochvílová,” says a Czech TV article about the efforts of the Czech record holder in running. “She would sometimes run in a swimming pool, knee-deep in water with a gas mask on and wearing a vest with weights. She is said to have lifted 750 tonnes a year before the Moscow Olympics. She would lift a total of 16 tonnes per training session, she had to jump ten times with a 110kg barbell on her back and she could run three hundred meters eighteen times in a morning.”
 
 <a name=kapitola3></a>
 
-## Uniklé dokumenty východoněmecké Stasi
+## Leaked Stasi documents
 
-„Jeden z největších farmakologických experimentů v historii probíhal víc než tři desetiletí,“ uvedl německý profesor molekulární biologie Werner Franke v roce 1997 ve studii _[Hormonální doping a androgenizace sportovců: utajený program východoněmecké vlády](http://clinchem.aaccjnls.org/content/43/7/1262)_ _(androgenizace je změna působením mužských pohlavních hormonů, pozn. red.)_. „Zvlášť účinné bylo podávání anabolických steroidů pro andogenizaci u dívek v pubertě a mladých žen.“
+“One of the largest pharmacological experiments in history has been running for more than three decades,” says German Professor of molecular biology Werner Franke in his 1997 thesis _[Hormonal doping and androgenization of athletes: a secret program of the German Democratic Republic Government](http://clinchem.aaccjnls.org/content/43/7/1262)_ [Note: androgenisation is a change caused by male sex hormones]. “The administration of anabolic steroids was especially effective for androgenization in pubescent girls and young women.”
 
-<right><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/anabolika.jpg" style="width: 150%; float: left"></p><p>Efekt anabolického steroidu na výkon koulařky. Osa y ukazuje nejlepší výkon v metrech, obdélníky nad osou x označují období podávání anabolik, čísla počet tablet.</p><p><small>Zdroj: W. Franke, B. Berendonková: Hormonální doping a androgenizace</small></p></right>
+<right><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/anabolika.jpg" style="width: 150%; float: left"></p><p>The influence of anabolic steroids on a shot-putter’s performance. The “y” axis shows the best performance in meters; the rectangles above the “x” axis mark the period of anabolics administration; the numbers mean the numbers of pills.</p><p><small>Source: W. Franke, B. Berendonk: Hormonal doping and androgenization of athletes</small></p></right>
 
-Pro Frankeho je doping osobní téma. Spoluautorkou studie je jeho žena Brigitte Berendonková, bývalá vrcholová koulařka a diskařka, která utekla z východního Německa na západ. S dopingem měla sama dost zkušeností a v roce 1991 vydala publikaci o východoněmeckém sportu pod titulem _Doping: od výzkumu po podvod_.
+Doping is a personal topic for Franke. The thesis was co-authored by his wife, Brigitte Berendonk, a former top-level shot-putter and discus thrower, who emigrated from East Germany to the West. She had a lot of experience with doping and in 1991 she published a book called _Doping: from Research to Deceit_.
 
-Ze stejných podkladů vychází i Frankova studie. Bohatě využívá víc než 150 dokumentů východoněmecké tajné služby, které Stasi nestihla zničit nebo unikly ještě před pádem režimu. Mezi nimi je řada výzkumů, které měří vliv dopingu na výkon, další popisují nežádoucí vedlejší efekty zakázaných látek. Fascinující jsou i případové studie, které přesně popisují dopingový kalendář a dávkování látek u konkrétních sportovců.
+Franke’s study is based on the same materials. He uses more than 150 documents of the East German intelligence service, which the Stasi didn’t manage to destroy or which had leaked before the Communist regime fell. They include a lot of research studies that measure the impact of doping on performance; others describe undesirable side effects of the prohibited substances. Also fascinating are the case studies describing precisely the doping calendars and dosage of the substances for particular athletes.
 
-„V šedesátých letech byla Německá demokratická republika obskurní země, které dominovalo téma studené války a železná opona,“ vypráví Franke. „Politici usoudili, že sportovní výkony budou nejrychlejší a nejlevnější prostředek, jak opatřit sedmnáctimilionové zemi mezinárodní prestiž.“
+“In the 1960s the German Democratic Republic was an obscure country dominated by the topic of the cold war and iron curtain,” says Franke. “The politicians thought that achievements in sports would be the fastest and cheapest way for the country with a population of seventeen million to gain international prestige.
 
-Uspěli. Od roku 1972 se východní Němci na vrcholných akcích umísťovali na stupních vítězů vedle Američanů a Sovětů. Jejich výsledky měly ukazovat světu, že je komunistická ideologie nadřazená té západní.
+They succeeded. In 1972 East Germans began to stand regularly on the winners’ podium along with the Americans and Russians. Their results were supposed to show the world that the Communist ideology was superior to the Western one.
 
-Podle Frankeho prošly každoročně dopingovým programem přes dvě tisícovky sportovců.
+According to Franke, more than two thousand athletes went through the doping programme every year.
 
-Pozitivní vliv anabolik na sportovní výkony – alespoň podle dobových záznamů Stasi – působí až neuvěřitelně:
+The positive impact of anabolics on sports performances – at least according to the Stasi records of that time – sound almost unbelievable:
 
-* vrh koulí, muži: 2,5–4 m
-* vrh koulí, ženy: 4.5–5 m
-* hod diskem, muži: 10–12 m
-* hod diskem, ženy: 11–20 m
-* hod kladivem: 6–10 m
-* hod oštěpem, ženy: 8–15 m
-* běh na 400 m, ženy: 4–5 s
-* běh na 800 m, ženy: 5–10 s
-* běh na 1500 m, ženy: 7–10 s
+* Shot put, men: 2.5–4m
+* Shot put, women: 4.5–5m
+* Discus throw, men: 10–12m
+* Discus throw, women: 11–20m
+* Hammer throw: 6–10m
+* Javelin, women: 8–15m
+* 400 metres, women: 4–5s
+* 800 metres, women: 5–10s
+* 1,500 metres, women: 7–10s
 
-V roce 1977 ale režim poprvé zaváhal: koulařka Ilona Slupianeková měla pozitivní dopingový test. Aby se to neopakovalo, zavedlo východní Německo vlastní dopingové kontroly. Jejich účelem nebylo omezovat doping; testování sportovců v dopingovém programu před oficiální kontrolou mělo zajistit, aby na sportovní akce neodjel nikdo s problematickými hodnotami. Kdo neprošel, zůstal doma se „zraněním“ nebo „náhlým poklesem formy“. Opatření bylo úspěšné, Slupianeková byla poslední východoněmeckou vrcholovou sportovkyní, kterou se podařilo odhalit. Později stejné metody převzaly další země východního bloku včetně Československa.
+However, in 1977 the regime faltered for the first time: shot-putter Ilona Slupianek had a positive doping test. In order to prevent that from happening again East Germany introduced its own doping controls. Their purpose was not to limit doping – the testing of athletes before the official tests was to ensure that nobody with problematic values would compete in the sports events. Those who didn’t pass stayed at home due to “an injury” or “being out of shape suddenly.” The measure proved successful – Slupianek was the last East German top female athlete to be revealed. Later on, the same methods began to be used by other Eastern Bloc countries, including Czechoslovakia.
 
-Zatímco za hranicemi sportovci procházeli dopingovými testy bez podezření, ve východním Německu byl systematický doping veřejným tajemstvím. Vrcholovým sportovcům zakázané látky obstarávali státní trenéři a reprezentační lékaři, „druhá liga“ byla odkázaná na černý trh. Řada sportovců „zobala“ látky mimo kontrolu lékařů a riskovala zdraví o poznání víc. Syntetická anabolika z černého trhu jako _oral-turinabol_ byla podle Frankeho dostupná už devíti- až dvanáctiletým dětem.
+While the athletes passed doping tests out of their country without being suspected, in East Germany systematic doping was an open secret. The prohibited substances for the top athletes were procured by state coaches and national teams’ doctors; the “bush league” had to rely on black market. Many athletes “downed” the substances without being checked by doctors, so they endangered their health much more. According to Franke, black-market synthetic anabolics, such as _oral-turinabol_, were available to nine- or twelve-year-old children.
 
-Hnací silou černého trhu byly odměny pro úspěšné sportovce – a také jejich trenéry. Za zvyšování mezinárodní prestiže NDR dostávali finanční odměny nebo povolení vyrazit na Západ.
+The stimulus of the black market was the rewards for the athletes and their coaches. For increasing the GDR’s international prestige they would be given financial rewards or permissions to travel to the West.
 
-Koncem osmdesátých let už byl doping tak zřejmý, že ho mezinárodní sportovní instituce včetně olympijského výboru nemohly ignorovat. Poslední kapkou byl sprint na 100 metrů na olympiádě v Soulu v roce 1988. Pozitivní dopingový test vítězného Kanaďana Bena Johnsona znamenal konec i pro státem řízený doping východního Německa. Mimochodem, v následujících letech mělo pozitivní testy [dalších pět]( http://www.dailymail.co.uk/home/moslive/article-2169255/Dirtiest-Olympics-race-history-1988s-100m-final-year-steroids-turned-sport-sour.html) ze sedmi sprinterů ve stejném závodě.
+By the end of the 1980s doping had become so obvious that international sports institutions including the Olympic Committee couldn’t ignore it. The last straw was the 100-metre dash at the Seoul Olympics in 1988. Canadian Ben Johnson’s positive doping test meant the end even for the state-controlled doping in East Germany. By the way, in the following years [other five](http://www.dailymail.co.uk/home/moslive/article-2169255/Dirtiest-Olympics-race-history-1988s-100m-final-year-steroids-turned-sport-sour.html) out of seven sprinters in the same race had positive tests.
 
 <a name=kapitola4></a>
 
-## Anabolika pro devítileté holky
+## Anabolics for nine-year-old girls
 
-Na počátku sedmdesátých let nebyla anabolika mezi vrcholovými sportovci nic neobvyklého a do olympijských her v Montrealu v roce 1976 ani zakázaného. Podle Frankeho je běžně užívali zejména sportovci Spojených států. Východoněmečtí trenéři ale byli první, kdo je začal masivně podávat ženám.
+At the beginning of the 1970s anabolics were nothing unusual among top athletes and it wasn’t until 1976 that they were banned. According to Franke they were normally used by U.S. athletes. However, the East German trainers were the first to administer them to women on a large scale.
 
-Drasticky také zvýšili dávky, což začalo být na konci sedmdesátých let zřetelné. Když se na montrealské olympiádě, kde východoněmecké plavkyně získaly 11 ze 13 možných medailí, americká sportovkyně zeptala na jejich nepřirozeně hluboké hlasy, dostala od východoněmeckého trenéra odpověď: „Přijeli jsme plavat, ne zpívat“.
+They also drastically increased dosage, which became obvious at the end of the 1970s. When an American athlete at the Montreal Olympics, where the East German swimmers won 11 out of the 13 medals, asked about their unnaturally low-pitched voices, their trainer replied: “We have come here to swim, not sing.”
 
-„Androgenizace dívek a mladých žen byla nejefektivnější částí dopingového programu,“ píše Franke. „Dávky byly překvapivě vysoké; mnoho vrcholových atletek a plavkyň dostávalo vyšší množství anabolik než muži ve stejných disciplínách.“
+“The androgenisation of girls and young women was the most effective part of the doping programme,” says Franke. “The doses were surprisingly high. Many top female athletes and swimmers were given higher amounts of anabolics than men in the same disciplines.”
 
-Jedním z opatření, které mělo po dopingovém nálezu Slupianekové zabránit pozitivním dopingovým testům, byla _steroidová terapie_. Trenéři a reprezentační lékaři přesně věděli, jak dlouho před sportovní akcí musejí vysadit anabolické steroidy, aby po nich nezůstaly stopy. Zároveň ale hledali způsoby, jak sportovce nadopovat i před akcí a přímo na ní. Odpovědí byly injekce mužského hormonu testosteronu, který testy nedokázaly odhalit. Začaly proto vznikat komplikované dopingové protokoly, které pracovaly s „přemostěním“ období, kdy sportovci nebrali hlavní tréninková anabolika.
+One of the measures that were to prevent positive doping tests after Slupianek’s doping exposure was the _steroid therapy_. Trainers and doctors knew exactly how long before a sporting event to discontinue the use of anabolic steroids so that they left no traces. At the same time they were looking for ways to dope athletes before as well as during the event. The result was the use of testosterone injections, which the tests could not reveal. Therefore, complicated doping protocols began to be created, working with the “bridging” of the period when athletes didn’t take the main training anabolics.
 
-<left><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/testosteron.jpg" style="width: 150%; float: right; padding-top: 0px; padding-bottom: 30px"></p><p>Ilustrace <i>steroidového přemostění</i> z dokumentů Stasi: list ukazuje dopingová schemata šesti atletů deset týdnů před sportovní akcí, obdélníky značí aplikaci anabolických steroidů jako oral-turinabol, šipky, trojúhelníky a kolečka aplikaci testosteronu</p><p><small>Zdroj: W. Franke, B. Berendonková: Hormonální doping a androgenizace</small></p></left>
+<left><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/testosteron.jpg" style="width: 150%; float: right; padding-top: 0px; padding-bottom: 30px"></p><p>Illustration of <i>steroid bridging</i> from the Stasi documents: the sheet shows six athletes’ doping schemes ten weeks before a sporting event; the rectangles mark the application of anabolic steroids, such as Oral-Turinabol; the arrows, triangles and circles mark the application of testosterone.</p><p><small>Source: W. Franke, B. Berendonk: Hormonal doping and androgenization of athletes</small></p></left>
 
-Pro hlídání hladiny testosteronu antidopingové kontroly měřily poměr testosteronu a příbuzného epitestosteronu _(T:E)_, který nemá vliv na výkon. Hladina obou látek je za normálního stavu přibližně stejná. Výrazný výkyv ve prospěch testosteronu značí doping.
+In order to check the level of testosterone, doping tests measured the ratio between testosterone and the related epitestosterone _(T:E)_, which doesn’t influence performance. The levels of both hormones are normally approximately identical. A distinctly higher level of testosterone means doping.
 
-Východoněmečtí vědci si s kontrolou poradili poměrně přímočaře: vedle testosteronu se naučili zvyšovat také hladinu epitestosteronu, takže poměr T:E zůstával stabilní. To jim umožnilo aplikovat sportovkyním podstatně vyšší dávky. Tak vysoké, že v roce 1984 se druhý nejvyšší muž dopingového programu Manfred Höppner začal zajímat, zda experiment nezašel příliš daleko.
+The East German scientists coped with the test quite easily: apart from testosterone they also learned to increase the level of epitestosterone, so the T:E ratio remained stable. That enabled them to administer much higher doses to the female athletes. They were so high that in 1984 the second highest-ranking man of the doping programme, Manfred Höppner, started to wonder whether the experiment hadn’t gone too far.
 
-„Tato atletka byla zařazena mezi špičkové atlety, kteří byli připravováni na zimní olympijské hry vysokými dávkami testosteronu a současnými protiinjekcemi epitestosteronu,“ píše Höppner v jednom z dokumentů, který Stasi nestihla zničit. „Podobná podpůrná opatření podstoupila také na následujícím světovém šampionátu. Její extrémně pozitivní výsledky […] jsou unikátní a nelze je reprodukovat. Je to ostatně i v jejím zájmu, neboť se u ní rozvinuly mužské obličejové rysy a změnil se jí hlas,“ varuje Höppner.
+“[This athlete] was among the selected top athletes who were prepared for their competitions at the Olympic Winter Games with considerable amounts of testosterone and simultaneous counterinjections of epitestosterone,“ says Höppner in one of the documents that the Stasi didn’t manage to destroy. „Similar supporting measures were also performed [for her] at the subsequent World championships. …[her] extraordinarily positive results… will be unique and not reproducible, also not in her own best interest, as already now her facial features have virilized and her voice has changed,“ warns Höppner.
 
-Podle Frankeho se zvlášť nebezpečná procedura s vysokými dávkami obou látek používala od roku 1983, nejčastěji u plavkyň a veslařek.
+According to Franke this extraordinarily dangerous procedure with high doses of both substances began to be used in 1983, mostly for swimmers and rowers.
 
-Výsledkem byly kromě hlubokého hlasu, růstu mužského ochlupení nebo [„anabolického akné“](https://www.google.cz/search?q=anabolic+acne&safe=off&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi0odaip6nZAhWHYlAKHQIXDQgQ_AUICigB&biw=1600&bih=794) taky extrémně zvýšené nebo snížené libido, závažné poruchy jater a ledvin, při těhotenství vývojové vady plodu nebo potraty, často nařízené trenéry. Vystoupit z tréninkového programu přitom nebylo snadné.
+Besides a low-pitched voice, increased growth of bodily hair or [“anabolic acne”](https://www.google.cz/search?q=anabolic+acne&safe=off&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi0odaip6nZAhWHYlAKHQIXDQgQ_AUICigB&biw=1600&bih=794) the results included an extreme disturbances in libido, serious liver and kidney dysfunctions, malformations of the foetus in pregnancy or abortions ordered by the trainers. Getting out of the training programme was not easy.
 
-„[Navzdory Höppnerovým obavám] Androgenní kúry ostatních dívek pokračovaly,“ píše Franke ve své studii. „O rok později na sobě jedna z nich začala pozorovat podobné vedlejší efekty včetně hlubšího hlasu, ale nebylo jí povoleno přestat brát medikaci. Rozhodla se proto uprchnout na Západ. Byla první, kdo popsal systematickou a násilnou androgenizaci mladých sportovkyň. Jako důkaz s sebou vzala „vitamínové tablety“ _(za vitamín B12 východoněmečtí lékaři maskovali doping před samotnými sportovci, kteří je brali, pozn. red.)_, které v západoněmecké laboratoři identifikovali jako anabolikum oral-turinabol.“
+“[Despite Höppner’s concerns] androgenic treatments of other girls continued,” says Franke in his study. “One year later one of them noticed the same and other virilising side effects, including a deepened voice, but she was not allowed to stop taking the medication. She consequently decided to defect from the GDR to the West… She was the first to report the truth about the systematic and forceful androgenisation of young athletes… As evidence she brought her “vitamin pills”, which were identified in a West German laboratory as Oral-Turinabol.” _[Note: East German doctors described the drugs as vitamin B12 to the athletes who took them]._
 
-„Přestože mělo její svědectví značnou publicitu,“ dodává Franke, „mezinárodní sportovní instituce, včetně Mezinárodního olympijského výboru, nereagovaly. To pochopitelně potěšilo východoněmecké autority.“
+“Although her report was widely publicized,” adds Franke, “the sports authorities of the world, including the IOC, remained silent, a reaction that pleased the GDR officials.”
 
-<wide><div style="max-width: 100%"><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/heidi-andreas-krieger.jpg"></p><p>_Vlevo východoněmecká koulařka Heidi Krieger, vpravo Andreas Krieger s fotkou Heidi Kriger. Všichni jsou jedna osoba._</p></div></wide>
+<wide><div style="max-width: 100%"><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/heidi-andreas-krieger.jpg"></p><p>_Left: East German shot-putter Heidi Krieger; right: Andreas Krieger with a photo of Heidi Krieger. All of them are the same person._</p></div></wide>
 
-Po pádu východoněmeckého režimu zažalovaly dvojici mužů, zodpovědných za dopingový program, tři desítky bývalých sportovkyň s poškozeným zdravím.
+When the East German regime had fallen, two men responsible for the doping programme were sued by thirty former athletes whose health had been damaged.
 
-„Třikrát denně jsme dostaly modrý prášek a sladký čaj. Tvrdili nám, že jsou to vitamíny, ve skutečnosti jsme proti své vůli braly doping,“ tvrdí Andreas Krieger, v osmdesátých letech mistryně Evropy ve vrhu koulí Heidi Krieger.
+“We would be given some blue powder and sweet tea three times a day. We were told that they were vitamins but in fact we were doping involuntarily,” says Andreas Krieger, who used to be Heidi Krieger, a European shot-put champion in the 1980s.
 
-V roce 2000 oba pohlaváři [dostali podmíněné tresty](http://news.bbc.co.uk/2/hi/europe/733155.stm) a pokutu v rozsahu jednotek tisíc německých marek. Žádnému z východoněmeckých funcionářů, zodpovědných za dopingový program, soud neudělil nepodmíněný trest.
+In 2000 both officials [were given suspended sentences](http://news.bbc.co.uk/2/hi/europe/733155.stm) and fines amounting to thousands of marks. None of the East German officials responsible for the doping programme was given an unconditional sentence.
 
 <a name=kapitola5></a>
 
-## Cyklistika je organizovaný zločin
+## Cycling is organized crime
 
-Odhady, kolik sportovců dopuje, se řádově liší. Spodní hranici určují oficiální čísla z dopingových kontrol. Horní odhaduje řada studií.
+The estimates of how many athletes take drugs differ greatly. The lower number is determined by the official figures of doping controls. The upper number is estimated by many studies.
 
-Před olympiádou v Londýně 2012 britský deník The Guardian [získal a zveřejnil](https://www.theguardian.com/sport/datablog/2012/jul/04/olympics-2012-athletics) statistiky Světové antidopingové agentury o podílu pozitivních testů v olympijských sportech v letech 2003 až 2010.
+Before the London Olympics in 2012 The Guardian [obtained and published](https://www.theguardian.com/sport/datablog/2012/jul/04/olympics-2012-athletics) the WADA statistics on the number of positive tests in Olympic events in 2003–2010.
 
 <wide><div id = "pozitivni" style="width:100%; height:600px; position: relative;"></div></wide>
 
-Nejvíce rozšířený je doping podle dat WADA – a také podle ústních svědectví – v cyklistice. V roce 2004 v testech neuspělo téměř pět procent kontrolovaných cyklistů, od té doby číslo podstatně kleslo. Silné formulace bývalých závodníků nebo cyklistů přistižených při dopingu naznačují, že skutečný podíl cyklistů s nepovolenými látkami v krvi je podstatně vyšší.
+According to the WADA data and according to oral reports, doping is most widely used in cycling. In 2004 almost 5% of tested cyclists failed the test but since then the number has significantly decreased. However, strong opinions expressed by former racers or cyclists caught doping suggest that the real percentage of cyclists using prohibited substances is much higher.
 
-„Profesionální cyklistika je organizovaný zločin," [řekl](https:/www.usatoday.com/story/sports/cycling/2013/02/13/floyd-landis-pro-cycling-is-organized-crime/1916805/) v únoru 2013 deníku USA Today americký závodník Floyd Landis, který kvůli pozitivnímu nálezu musel vrátit zlato z nejtěžšího cyklistického závodu Tour de France.
+“Professional cycling is organized crime,” American cyclist Floyd Landis, who had to return his gold medal from the most difficult race, Tour de France, because of a positive test, [said](https:/www.usatoday.com/story/sports/cycling/2013/02/13/floyd-landis-pro-cycling-is-organized-crime/1916805/) to the USA Today in February 2013.
 
-Ve stejném roce se k dopingu přiznal také sedminásobný vítěz Tour de France Lance Armstrong.
+It was in the same year that the seven-time winner of the Tour de France, Lance Armstrong, also admitted doping.
 
-„Je podle vás možné vyhrát Tour de France sedmkrát v řadě bez dopování,“ [ptá se](https://www.theguardian.com/sport/2013/jan/18/lance-armstrong-admits-doping-oprah-winfrey) televizní moderátorka Oprah Winfrey Armstronga poté, co vrátil všechny medaile. „Ne, podle mého názoru to nejde,“ odpovídá Armstrong.
+“Was it humanly possible to win the Tour de France without doping, seven times?” [asked](https://www.theguardian.com/sport/2013/jan/18/lance-armstrong-admits-doping-oprah-winfrey) TV host Oprah Winfrey the cyclist after he had returned all his medals. “Not in my opinion,” replied Armstrong.
 
-„Bral jen to, co my všichni: EPO, testosteron, krevní transfúze,“ napsal v knize po svém odhalení Armstrongův bývalý týmový kolega Tyler Hamilton. Mimochodem právě ten, který o Armstrongovu dopingu začal veřejně mluvit a přinutil ho k doznání.
+“He took what we all took: EPO, testosterone, a blood transfusion,” wrote Armstrong’s former teammate Tyler Hamilton after the discovery. He was the one who started talking about Armstrong’s doping publicly and made him confess.
 
-Nejnověji se s dopingovým podezřením potýká vítěz posledních tří ročníků Tour de France, britský cyklista Chris Froome. Na loňské Vueltě – závodu kolem Španělska – mu ve vzorku našli [dvojnásobné množství salbutamolu](https://www.irozhlas.cz/sport/ostatni-sporty/cyklistika-chris-froome-doping-vuelta-sulbutamol_1712141047_vman), než povolují pravidla. Froome se brání, že jde o lék na astma, kterým trpí. Salbutamol nicméně patří k zakázaným látkám z toho důvodu, že může zvyšovat výkon.
+Most recently, British cyclist Chris Froome, the winner of the last three years of Tour de France, has been facing suspicion of doping. At last year’s Vuelta (Tour of Spain) twice the allowed dose of Salbutamol was found in his sample. Froome defends himself by saying that it is a medication against asthma, which he suffers from. However, Salbutamol is a prohibited substance because it can enhance performance.
 
-Froome ovšem není sám, kdo trpí astmatem. „Déšť v závěrečných etapách Vuelty pročistil vzduch a nebylo třeba přípravek používat,“ pustil se do něj další astmatik Vincenzo Nibali, který dojel druhý.
+Froome is not the only one to suffer from asthma. “The rain on the final stages of the Vuelta cleared the air and it wasn’t necessary to use the medicine,” another asthmatic, Vincenzo Nibali, who came second, criticised him.
 
-„Je zajímavé, že zatímco v roce 1984 na Olympijských hrách v Los Angeles udávalo ponámahové astma deset procent sportovců, v roce 1994 na zimní olympiádě v Lillehammeru to bylo už šedesát procent,“ píše na svém webu klinický biochemik Libor Vítek z 1. lékařské fakulty Univerzity Karlovy. „Důvodem je zřejmě legalizace užívání těchto látek, pokud budou sportovci vedeni jako astmatici.“
+“It is interesting that while at the 1984 Olympics in Los Angeles exercise-induced asthma was stated by 10% athletes, at the 1994 Winter Olympics in Lillehammer it was 60%,” says clinical biochemist Libor Vítek from the First Medical School of the Charles University on his website. “The reason is probably the legalization of the use of these substances if the athletes are officially regarded as asthmatics.”
 
-„Kdysi se Tour de France říkalo Tour de Pharmacy a nebylo to daleko od pravdy; dnes jsem přesvědčen, že je vrcholová cyklistika výrazně čistší,“ brání profesionální cyklistiku sportovní lékař Jiří Dostal. „Týmy kategorie UCI World Tour si dávají velký pozor, aby se nezapletly systémově s dopingem, protože by okamžitě přišly o sponzory a zničilo by je to. Pokud se sportovci prokáže doping, týmy se od něj obvykle distancují. Aktuální případ Chrise Frooma je snad jedinou výjimkou.“
+“The Tour de France used to be called the Tour de Pharmacy and it wasn’t far from the truth. I am convinced that top-level cycling is much cleaner now,” says sports doctor Jiří Dostal in defence of professional cycling. “The UCI World Tour teams are extremely careful not to be involved in doping systematically because they would immediately lose their sponsors and it would destroy them. If an athlete’s doping is proved, the team usually dissociate themselves from him. The current case of Chris Froom might be the only exception.”
 
 <a name=kapitola6></a>
 
-## Není těžké přečůrat antidopingové kontroly
+## Doping controls can be outsmarted easily
 
-Data WADA, zveřejněná Guardianem, ukazují vysoký podíl pozitivních nálezů také mezi vzpěrači. Není to překvapivé, právě ve vzpírání anabolika patřila k populárním podpůrným prostředkům v minulosti a patří dodnes.
+The WADA data published by The Guardian show a high percentage of positive findings among weightlifters, too. That is not surprising since anabolics have always been popular performance enhancing substances in weightlifting.
 
-Překvapivější je relativně značný podíl pozitivních testů v basketbalu a baseballu. Americkou nejvyšší baseballovou ligu nicméně provází zhruba od roku 2005 řada velkých kauz kolem užívání anabolických steroidů a lidského růstového hormonu. Vyšetřoval je i americký kongres, jehož závěrečná [Mitchellova zpráva](http://files.mlb.com/summary.pdf) v roce 2007 ukázala na osm desítek dopujících sportovců.
+Surprisingly, there is a relatively high percentage of positive tests in basketball and baseball. Since 2005 the American Major League Baseball has been facing many serious cases of the use of anabolic steroids and the growth hormone. They were investigated by the American Congress, whose final [Mitchell Report](http://files.mlb.com/summary.pdf) in 2007 revealed about eighty doping sportsmen.
 
-„Ve Spojených státech je silná antidopingová agentura USADA, takže státem řízený doping, podobný tomu v Rusku nebo Číně, je tam nemyslitelný,“ upozorňuje sportovní lékař Jiří Dostal. „Na druhou stranu tam ale došlo k řadě kauz kolem komerčních distributorů a laboratoří. Jednou z nich je kauza BALCO, kdy laboratoř poskytovla anabolika řadě sportovců včetně právě baseballistů. Podobné jsou cyklistické kauzy v devadesátých letech a na přelomu století – dopingová aféra stáje Festina nebo Operación Puerto ve Španělsku.“
+“In the USA there is a strong anti-doping agency, the USADA, so state-controlled doping like in Russia or China is unthinkable,” points out Jiří Dostal. “On the other hand, there have been many U.S. cases involving commercial distributors and laboratories. One of them is the BALCO case, in which a laboratory supplied anabolics to many sportsmen, including baseball players. The cycling cases of the 1990s and of the turn of the century are similar: the Festina doping scandal or Operación Puerto in Spain.”
 
-Ve statistice WADA chybí kulturistika. Jde téměř jistě o sport nejvíce promořený dopingem. Naprostá většina [pozitivně testovaných sportovců](http://www.antidoping.cz/dopingova_kontrola_pripady.php) na stránce českého antidopingového výboru jsou právě kulturisti, mezinárodní statistiky ukazují podobný obrázek. Rozsah odhalených látek u kulturistů navíc odhaluje, že hazardují se zdravím podstatně víc než ostatní sportovci: například dva roky starý dopingový záznam Jiřího Lasíka vyjmenovává dvanáct zakázaných látek, většinou anabolických steroidů. Podobné záznamy jsou mezi kulturisty poměrně běžné.
+The WADA statistics don’t include bodybuilding. It is almost certainly the most doping-infested sport. The vast majority of sportsmen with positive tests on the Czech Anti-Doping Committee website are bodybuilders and international statistics show similar results. Furthermore, the scope of the revealed substances used by bodybuilders shows that they put their health at risk to a significantly higher degree than other athletes. For instance, Jiří Lasík’s two-year-old doping record lists twelve prohibited substances, mostly anabolic steroids. Similar records are quite common among bodybuilders.
 
-Dopingové kontroly mají ovšem zásadní slabinu, kterou sportovci umějí obcházet už od osmdesátých let. Poměrně přesně sice měří obsah zakázaných látek v těle, ale měří jen několik dnů – maximálně týdnů – zpět. Některé typy dopingu, například anabolika, proto obvykle stačí vysadit několik týdnů před závodem. Svou úlohu už u sportovce sehrály při tréninku a růstu svalstva, takže při závodě už může být čistý.
+However, doping controls have a crucial weakness, which athletes have been able to take advantage of since the 1980s. The tests measure quite accurately the content of prohibited substances in the body but they go only a few days or weeks, at the most, back. Therefore, the use of some kinds of doping, such as anabolics, can simply be discontinued only a few weeks before the race. They have already played their role in training and in the growth of the athlete’s muscles, so now he/she may be “clean” during the race.
 
-Nebo, jak ukázal „tréninkový“ plán východoněmeckých sportovců, se před turnajem vysadí snadno odhalitelný doping a pro „přemostění“ se nasadí lépe maskované látky.
+Or, as the “training” plan of the East German athletes shows, the use of easily detectable doping is discontinued before the tournament and substances that can be masked more easily are used for “bridging the gap.”
 
-Antidopingoví komisaři proto od roku 1989 testují sportovce také mimo závody. Přepadové kontroly znamenají pro dopující závodníky o něco vyšší riziko odhalení, ale zaměřují se pouze na špičkové sportovce.
+Therefore, since 1989 anti-doping commissioners have been testing athletes between races. Unexpected checks mean a higher risk of being caught doping but they only focus on top athletes.
 
-Pozitivní antidopingové kontroly tedy odhalují spíš závodníky, kteří „měli smůlu“, než aby ukazovaly skutečný rozsah dopingu.
+As a result, rather than showing the real extent of doping, positive doping controls only reveal those athletes who are “unlucky.”
 
 <a name=kapitola7></a>
 
-## Zapomeňte na kontroly, dopují desítky procent
+## Forget the controls – drugs are taken by tens of percent
 
-Jedna z mála detailních [studií k dopingu](http://www.zeitschrift-sportmedizin.de/artikel-online/archiv-2016/heft-11/doping-cases-among-elite-athletes-from-2000-to-2013/), publikovaná v žurnálu Deutsche Zeitschrift für Sportmedizin v říjnu 2016, naznačuje čísla o řád vyšší.
+One of the few detailed [studies on doping](http://www.zeitschrift-sportmedizin.de/artikel-online/archiv-2016/heft-11/doping-cases-among-elite-athletes-from-2000-to-2013/), published in Deutsche Zeitschrift für Sportmedizin in October 2016, suggests much higher numbers.
 
-„Podíl pozitivních dopingových testů zůstává v posledních třiceti letech konstantně kolem dvou procent,“ uvádějí autoři. „Vzhledem k odhalení strukturálních dopingových praktik a zapojení antidopingových laboratoří, například v Rusku, se domníváme, že podíl pozitivních dopingových testů je příliš nízký. Skutečná prevalence dopingu je podstatně vyšší.“
+“The number of positive anti-doping tests has remained consistently low in the past 30 years, at approximately 2%,” say the authors. “However, given the exposure of structural doping practices and the involvement of anti-doping laboratories (e.g. in Russia), we can suggest that the high prevalence of doping… is more realistic than the low number of positive doping cases.”
 
-Studie sbírala data o dopingových případech špičkových sportovců v letech 2000 až 2013. Do té doby neexistovaly souhrnné statistiky pozitivně testovaných sportovců, WADA je [začala zveřejňovat](https://www.wada-ama.org/en/resources/search?f%5B0%5D=field_resource_collections%3A202) teprve později. Autoři proto získávali data od národních antidopingových agentur, ověřovali je a doplňovali o záznamy z médií.
+The study collected data on the doping cases of top athletes in 2000–2013. Until then there had been no overall statistics for athletes with positive tests. The WADA only [began to publish them](https://www.wada-ama.org/en/resources/search?f%5B0%5D=field_resource_collections%3A202) later. So, the authors collected data from national anti-doping agencies, verifying them and completing them with information from the media.
 
-Shromáždili 1 236 dopingových případů. Největší část – přes 10 procent – měli na svědomí Rusové, následovaní s nevelkým odstupem Spojenými státy, Itálií, Španělskem a Německem. Téměř třetina případů se týkala atletů, další v pořadí byli vzpěrači a cyklisti.
+They collected 1,236 doping cases. The largest percentage (over 10%) occurred in Russia, followed quite closely by the United States, Italy, Spain and Germany. Almost one third of the cases concerned track and field athletes, followed by weightlifters and cyclists.
 
-Studie se zaměřila také na typy podpůrných látek. Téměř ve 40 procentech případů šlo o anabolické steroidy. Autoři navíc dovozují, že také dalších 10 procent případů, kde látka není známá, byla anabolika. V dalších 16 procentech případů šlo o krevní doping, ve 14 procentech požití stimulantů, typicky amfetaminu, efedrinu nebo kokainu, přímo před závodem.
+The study also focused on the types of performance enhancing substances. In almost 40% of the cases they were anabolic steroids. Moreover, the authors infer that another 10% of cases, in which the substance isn’t known, involved anabolics. Another 16% of cases involved blood doping and 14% the use of stimulants, usually amphetamine, ephedrine or cocaine, just before the race.
 
-V olympijských letech se dopovalo dvakrát víc (mezi ruskými atlety čtyřikrát víc) než v období mezi olympijskými hrami.
+In the Olympic years there was twice as much doping (four times as much among Russian athletes) as in the periods between the Olympic Games.
 
-Zajímavé zjištění přinesla data o tom, zda víc dopují muži nebo ženy. U Rusů převažovaly ženy (58 procent, mezi atlety 74 procent), u Španělů a Italů výrazně převážili muži.
+The data showed an interesting finding about whether it is men or women who dope more. In the case of the Russians it was women (58%, and among track and field athletes 74%), while in the case of the Spaniards and Italians men predominated distinctly.
 
-„Rozdíl se dá částečně vysvětlit tím, že na olympiádě zastupují Rusko převážně ženy, což může být výsledkem některých sociokulturních faktorů,“ tvrdí autoři studie. „Podobně lze převahu mužského dopingu v Itálii a Španělsku vysvětlit tamější popularitou cyklistiky.“
+“The difference can be partially explained by the fact that in the Olympics the Russians are mainly represented by women, which can be the result of some sociocultural factors,” says the study. “Similarly, the predominance of male doping in Italy and Spain can be explained by the popularity of cycling in those countries.”
 
-„Může to být také větší vnímavostí žen vůči dopingu,“ dodává Jiří Dostal. „Dá se říci, že ženy nedosahují svých metabolických maxim a doping jim vlastně pomůže posunout výkon na úroveň mužů. U mužů jde už o komplexní záležitost a dosáhnout efektu je mnohem těžší.“
+“The reason could also be that women are more sensitive to doping,” adds Jiří Dostal. “We can say that women don’t reach their metabolic maximum and doping actually helps them to achieve the level of men’s performances. But in men it’s a complex matter and it is much more difficult to achieve the effect.”
 
-Jedna ze studií, o kterou výzkumníci své závěry opírají, udává mezi 26 a 48 procenty dopujících. [Dva roky stará studie](http://www.tandfonline.com/doi/abs/10.1080/16138171.2007.11687797) sbírá data pomocí anonymního webového dotazníku od německých sportovců.
+One of the studies on which the researchers rely says there are between 26% and 48% of doping athletes. [This two-year-old study](http://www.tandfonline.com/doi/abs/10.1080/16138171.2007.11687797) collects data from German athletes by means of an anonymous web questionnaire.
 
-„Je překvapivé, že sportovci, trenéři, funkcionáři, politici a další lidé ve vrcholovém sportu nevnímají rozsáhlý doping, přestože data ukazují, že dopuje mezi 4,2 a 35 procenty sportovců, u atletiky a v některých zemích i přes 50 procent,“ shrnují studii její autoři.
+“It is surprising that sportspeople, trainers, officials, politicians and other people involved in professional sports do not take notice of the large-scale doping although the data shows that 4.2–35% of athletes take drugs and in track and field in some countries it is over 50%,” the authors of the study conclude.
 
 <a name=kapitola8></a>
 
-## Běžkařský skandál týden před Pchjong-čchangem
+## Cross-country skiing scandal a week before the Pyeongchang Olympics
 
-Poslední dopingový případ propukl necelý týden před úvodním ceremoniálem her v Pchjong-čchangu. Německá televize ARD spolu s britským deníkem The Sunday Times [provedly](https://www.thetimes.co.uk/edition/news/blizzard-of-ski-doping-cheats-q3ltj2djm) analýzu vzorků krve dvou tisíc běžců na lyžích z let 2001 až 2010. Data, která dostaly od anonymního zdroje, podle nich prokazují rozšířený doping mezi běžkaři.
+The last doping case happened less than a week before the opening ceremony of the Olympic Games in Pyeongchang. The German ARD television along with the British newspaper The Sunday Times [carried out](https://www.thetimes.co.uk/edition/news/blizzard-of-ski-doping-cheats-q3ltj2djm) an analysis of the blood samples of two thousand cross-country skiers from 2001–2010. According to them, the data, which they had obtained from an anonymous source, prove widespread doping among cross-country skiers.
 
-<left><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/blood-doping-tst.jpg" style="width: 150%; float: right;"></p><p>Podíl běžců na lyžích s podezřelými krevními testy</p><p><small>Zdroj: The Sunday Times</small></p></left>
+<left><p><img src="https://dev.datarozhlas.cz/olympiada-doping/fotky/blood-doping-tst.jpg" style="width: 150%; float: right;"></p><p>Percentage of cross-country skiers with suspicious blood tests.</p><p><small>Source: The Sunday Times</small></p></left>
 
-„Třetinu medailí z olympiád a světových šampionátů, včetně 91 zlatých, v těchto letech získali běžkaři s podezřelými krevními testy,“ píše deník. Abnormální hodnoty má podle listu také padesátka běžkařů, kteří závodí na hrách v Koreji.
+“A third of the Olympic and world championship medals in those years, including 91 gold ones, were won by skiers with blood tests classed as “likely doping” or “suspicious,” says the Sunday Times. According to it, fifty cross-country skiers competing in the Olympics in Korea show abnormal results in the tests, too.
 
-„Rusko opět vystupuje jako světový lídr mezi podvodníky v zimních sportech,“ pokračuje The Sunday Times. „Víc než 76 procent ruských běžkařských medailí získali sportovci s abnormálními krevními testy.“
+“Russia again emerges as the world leader in the winter sports cheating table,” continues The Sunday Times. “More than 76% of cross-country skiing medals awarded to the country were won by skiers with abnormal blood-test results.”
 
-Mezi podezřelými z dopingu je ale také řada špičkových sportovců z Norska, Německa, Švédska, Itálie a dalších zemí, tradičně silných v zimních sportech.
+Those suspected of doping include a lot of top-level athletes from Norway, Germany, Sweden, Italy and other countries that traditionally do well in winter sports.
 
-Jména běžkařů novináři neuvádějí – krevní testy totiž nejsou stoprocentní důkaz, že sportovec dopuje. Podle lékařů, kteří s deníkem spolupracují, je u každého vzorku šance přibližně jedna ze sta, že jde o přirozenou hladinu.
+The journalists do not give the names of the skiers because blood tests cannot decidedly prove that athletes use doping. According to the doctors cooperating with the newspaper, each sample has less than a one in 100 chance of the levels being natural.
 
-Mezinárodní lyžařská federace (FIS) odmítla zjištění Britů komentovat s tím, že jde pouze o podezření. Podle [regulí WADA](https://www.wada-ama.org/sites/default/files/resources/files/guidelines_abp_v6_2017_jan_en_final.pdf) nelze usuzovat na doping z jediného krevního vzorku, jak to provedli oslovení lékaři. K samotnému podezření je podle WADA třeba sledovat vzorky v delší časové řadě a i pak vede k prokázání dopingu dlouhá cesta. Výsledky opakovaně prověřují antidopingové laboratoře a teprve v případě, že se závodník nedokáže před komisaři obhájit, jde o dopingový nález.
+The International Ski Federation (FIS) refused to comment on the findings of the British saying that these were mere suspicions. According to [the WADA rules](https://www.wada-ama.org/sites/default/files/resources/files/guidelines_abp_v6_2017_jan_en_final.pdf) doping cannot be deduced from a single blood sample, as the addressed doctors did. According to the WADA, even for a suspicion it is necessary to monitor samples for a longer period of time and even then it takes a lot of effort to prove doping. The results are repeatedly examined by anti-doping laboratories and only if the athlete cannot defend themselves before the commission, it is considered to be a doping finding.
 
-Deník The Sunday Times zveřejnil také žebříček zemí podle podílu podezřelých krevních testů v databázi; u 24 zemí včetně Česka vykazuje abnormální hodnoty víc než desetina vzorků. První jsou Rusové, ale vysoká jsou také čísla u Francouzů, Rakušanů, nebo Němců.
+The Sunday Times also published a ranking of countries according to the percentage of suspicious blood tests – in 24 countries, including the Czech Republic, more than 10% of the samples show abnormal values. The first are the Russians but the French, Austrians and Germans also show high numbers.
 
 <a name=kapitola9></a>
 
-## Rozhřešení
+## Absolution
 
-Pokud je doping tak všudypřítomný, jak naznačují data, proč ho nepovolit?
+If doping is so omnipresent, why not allow it?
 
-„Protože vnáší do sportu nerovnost a někdy ohrožuje zdraví,“ odpovídá sportovní lékař Jiří Dostal. „Protože někteří rodiče a státy nemají vůbec žádné zábrany podat doping dětem. Protože by raketově narostly počty mrtvých a postižených,“ dodává.
+“Because it brings inequality to sports and sometimes endangers health,” says sports doctor Jiří Dostal. ”Because some parents and countries have no scruples about doping children. Because the numbers of the dead and disabled would sky-rocket,” he adds.
 
-„Je řada na první pohled logických argumentů pro povolení dopingu,“ shrnuje některé z nich [The Guardian](https://www.theguardian.com/science/brain-flapping/2016/aug/12/olympics-to-the-max-what-if-doping-were-allowed). „Nebylo by na tom nic nefér. Každý sportovec by měl přístup ke stejným látkám, takže by se srovnalo hřiště. Sport by byl dokonce inkluzivnější: profesionální sportovci jsou obvykle ti s ‚neférovou‘ genetickou výhodou, takže ti, kdo nestačí, by díky podpůrným látkám mohli svou nevýhodu kompenzovat a konkurovat jim. Možná by se také staly hry zajímavější; neustálé překonávání rekordů, rychlejší, silnější a vytrvalejší sportovci. Co se na tom komu může nelíbit?“
+“There are, perhaps, logical arguments in favour of lifting the ban on doping,“ [The Guardian](https://www.theguardian.com/science/brain-flapping/2016/aug/12/olympics-to-the-max-what-if-doping-were-allowed) sums up. “It wouldn’t be ‘unfair,’ as every athlete has access to the same drugs, so it levels the playing field. It could even make it more inclusive: people normally get to be top athletes because of ‘unfair’ genetic advantages, so those who normally couldn’t keep up can use drugs to compensate and stay competitive. And, potentially, it could make the games far more interesting. World records constantly being smashed, athletes being faster, stronger, more enduring. What’s not to like?”
 
-Na řečnický odstavec si Guardian taky odpovídá.
+The Guardian gives its own reply to this rhetorical question.
 
-„Jak jednotlivci reagují na léky silně závisí na jejich fyziologii a genetickém vybavení, takže by stále šlo o genetickou loterii. […] Povinný doping by drasticky zvýšil risk vážného poškození zdraví. A povolení dopingu by znamenalo povinný doping. […] „Prudce by se zvedla nerovnost. Země jako Spojené státy nebo Čína by měly zdroje opatřit si ty nejlepší podpůrné látky a zároveň maximalizovat bezpečnost svých sportovců.“
+“How people respond to drugs is heavily influenced by their own physiology and genes… so it would still be something of a genetic lottery… Making doping compulsory would only drastically increase the risk of serious damage to the health of an athlete. And it would be compulsory… [It] would make the playing field even more uneven, not less. Countries like the US and China would have the resources and infrastructure to obtain the best performance enhancers for their athletes and maximise their safety when using them.”
 
-Poslední argument není jen teoretický. Spekuluje se o tom, že právě země jako Čína pracují na ovládnutí genetického dopingu.
+The last argument is not just theory. There are speculations about countries like China working on managing genetic doping.
 
-„Víme, že do DNA lze vložit informaci o vyšší produkci červených krvinek, efekt by byl podobný působení EPO,“ popisuje ve [dvoudílném](https://behejsrdcem.com/clanky/mudr-jiri-dostal-o-dopingu-nejsem-schopen-porazit-sam-sebe-tak-proste-podvadim/
-) [rozhovoru](https://behejsrdcem.com/clanky/mudr-jiri-dostal-o-dopingu-druha-cast-nejsem-schopen-porazit-sam-sebe-tak-podvadim/
-) o dopingu Dostal. „Gen ACTN3 zase zvyšuje glykolytickou kapacitu a pokud bychom ho uměli vložit do svalových buněk, nestačil by takovému sprinterovi ani Usain Bolt.“
+“We know that it is possible to insert information about higher production of red blood cells into DNA. The effect would be similar to that of EPO,” says Dostal in a [two](https://behejsrdcem.com/clanky/mudr-jiri-dostal-o-dopingu-nejsem-schopen-porazit-sam-sebe-tak-proste-podvadim/
+)-[part](https://behejsrdcem.com/clanky/mudr-jiri-dostal-o-dopingu-druha-cast-nejsem-schopen-porazit-sam-sebe-tak-podvadim/
+) interview about doping. “The ACTN3 gene increases glycolytic capacity and if we could insert it into a sprinter’s muscle cells, such a sprinter couldn’t be beaten even by Usain Bolt.”
 
-„Jeden z problémů dopingu je v tom, že se z něj stalo politikum,“ pokračuje Dostal. „Ať chceme nebo ne, doping se stal nástrojem boje mezi mocnostmi. Viz postih ruských atletů a protiakce ruských hackerů, kteří zveřejnili tajné dokumenty o biologických pasech mnoha západních atletů.“
+“One of the problems of doping is that it has become a political matter,” continues Dostal. “Like it or not, doping has become a tool in the fight between world powers. An example is the punishment of Russian athletes and the counteraction of Russian hackers who published secret documents about many Western athletes’ biological passports.”
 
-„Je ale evidentní, že ruská, keňská nebo třeba brazilská laboratoř byly jeden velký podvod, zakrývaly a někdy i řídily kontroly sportovců tak, aby byli čistí,“ pokračuje. „Vlastně nedělaly nic jiného než NDR v 80. letech. Nedělám si iluze, že by západní sportovci byli čistí. Ale nemyslím, že by západní státy s mírou kontroly a certifikace byly něčeho takového schopné.“
+“But it’s obvious that the Russian, Kenyan or, for instance, Brazilian laboratories were one big cheat masking and sometimes even managing the doping controls so that the athletes were clean,“ he adds. “In fact, they didn’t do anything else than East Germany in the 1980s. I have no illusions about the Western athletes being clean. But I don’t think that Western countries, with their high degree of control and certification, would be capable of doing something like that.”
 
-„Můj kvalifikovaný odhad je, že se dnes dopuje méně,“ uzavírá Dostal. „Vrcholový sport je čistší než dříve. Stačí se podívat na vývoj světových rekordů před lety a nyní. Na časy a výkony, které sportovci dosahují nyní a které dosahovali ještě před deseti lety. Na druhou stranu neuvěřitelně bují doping na amatérské úrovni, kde se nekontroluje. Tohle alarmující určitě je.“
+“My informed guess is that there is less doping nowadays,” sums up Dostal. “Professional sport is cleaner than before. You only need to look at the development of world records years ago and now. Look at the times and performances achieved now and ten years ago. On the other hand, doping is incredibly rampant at the amateur level, where it’s not checked. That’s certainly alarming.”
