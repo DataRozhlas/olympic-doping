@@ -63,7 +63,7 @@ They only lost their patience recently. Shortly before last year’s Christmas, 
 
 <script src="https://d1ox703z8b11rg.cloudfront.net/assets/iframeResizer.js"></script>
 
-<wide><iframe src="https://www.sutori.com/story/doping-v-rusku/embed" width="100%" height="690" frameborder="0" allowfullscreen></iframe></wide>
+<wide><iframe src="https://www.sutori.com/story/timeline-doping-in-russia/embed" width="100%" height="690" frameborder="0" allowfullscreen></iframe></wide>
 
 <script src="https://d1ox703z8b11rg.cloudfront.net/assets/iframeResizer.executer.js"></script>
 

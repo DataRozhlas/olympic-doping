@@ -1,14 +1,98 @@
 var latky = {
-  "Anabolické steroidy": { "img":"testosteron", "Skupina":"Anabolické steroidy", "img_sporty":"cyklo, sprint, bezky, kultur, koule, vzper, plavani", "Sporty":"všechny sporty", "Účel":"Rychlejší tvorba svalové hmoty", "Mechanismus":"Vyšší dávka mužských hormonů vede k rychlejší tvorbě svalstva, kostní tkáně, červených krvinek a nervových propojení", "Rizika":"Riziko náhlého úmrtí, poruchy jater/ledvin, psychické změny (agresivita, zvýšení/snížení sexuální aktivity), u žen mužské rysy, u mužů riziko zvětšení a karcinomu prostaty, gynekomastie (zvětšené prsní žlázy)", "Aplikace":"Prášek", "zdroje":""},
-  "Erytropoetin": { "img":"erytropoetin", "Skupina":"Peptidové hormony", "img_sporty":"cyklo, sprint, bezky, beh", "Sporty":"cyklistika, běžecké lyžování, triatlon, sprinty, dlouhé běhy, chůze", "Účel":"Zlepšení vytrvalosti", "Mechanismus":"Zvýšení počtu červených krvinek", "Rizika":"Náhlá srdeční smrt, mozkové příhody ", "Aplikace":"Injekce", "zdroje":""},
-  "Lidský růstový hormon": { "img":"rust_hormon", "Skupina":"Růstové faktory", "img_sporty":"cyklo, sprint", "Sporty":"cyklistika, sprinty, baseball", "Účel":"Rychlejší tvorba svalové hmoty, rychlejší léčba poranění", "Mechanismus":"Urychlení regenerace změnou metabolismu, není zcela jasné působení", "Rizika":"Porucha vnitřního prostředí, akromegalie (nadměrný růst částí těla nebo vnitřních orgánů)", "Aplikace":"Injekce", "zdroje":""},
-  "Clenbuterol": { "img":"clenbuterol", "Skupina":"Beta2- agonisté", "img_sporty":"kultur, sprint, beh, koule, vzper, plavani", "Sporty":"culturistika, sprinty, dlouhé běhy, koule, kladivo, vzpírání, plavání, ragby", "Účel":"Zachování svalové hmoty, lepší vyrýsování svalů", "Mechanismus":"Uvolňuje svaly v oblasti dýchacích cest, jako vedlejší efekt zrychluje metabolismus a tím i spalování tuku. Nedochází přitom ke ztrátě svalové hmoty, podle některých studií dokonce urychluje růst svalů.", "Rizika":"Arytmie, třes, psychické změny", "Aplikace":"Prášek", "zdroje":"https://legionathletics.com/clenbuterol/"},
-  "Salbutamol": { "img":"salbutamol", "Skupina":"Beta2- agonisté", "img_sporty":"cyklo, bezky, beh", "Sporty":"cyklistika, běžecké lyžování, dlouhé běhy, trojskok", "Účel":"Zlepšení práce s dechem, možné zlepšení maximálního výkonu", "Mechanismus":"Uvolňuje svaly v oblasti dýchacích cest, proto se používá jako lék na astma. Podle některých studií vede ke zvýšení maximální výkonu.", "Rizika":"Třes, snížení výkonu, arytmie, teploty", "Aplikace":"Inhalátor na astma", "zdroje":"https://www.ncbi.nlm.nih.gov/pubmed/8781870"},
-  "Inzulin": { "img":"inzulin", "Skupina":"Hormonové/metabolické modulátory", "img_sporty":"cyklo, kultur, sprint", "Sporty":"cyklistika, kulturistika, sprinty", "Účel":"Rychlejší tvorba svalové hmoty, lepší vyrýsování svalů", "Mechanismus":"Hladina inzulinu ovlivňuje spalování sacharidů. Nízká hladina při nečinnosti znamená nízké ukládání tuků, vysoká hladina při tréninku vede k rychlejšímu růstu svalů.", "Rizika":"Rozvrat vnitřního prostředí, jaterní a ledvinné selhání", "Aplikace":"Injekce", "zdroje":""},
-  "Krevní transfúze": { "img":"transfuze", "Skupina":"", "img_sporty":"cyklo, bezky", "Sporty":"cyklistika, běžecké lyžování, biatlon", "Účel":"Zlepšení vytrvalosti", "Mechanismus":"Transfúzí cizí krve – případně vlastní zmražené krve – po výkonu se doplní počet červených krvinek", "Rizika":"Náhlá srdeční smrt, mozková příhoda ", "Aplikace":"Krevní vak", "zdroje":""},
-  "Genový doping": { "img":"genovy_doping", "Skupina":"", "img_sporty":"dolly", "Sporty":"Ovečka Dolly", "Účel":"Různé efekty", "Mechanismus":"Různé modifikace genetické informace", "Rizika":"Mnoho možných potencionálně škodlivých či smrtelných efektů", "Aplikace":"Blob", "zdroje":""},
-  "Amfetamin, kokain, marihuana": { "img":"trava", "Skupina":"Narkotika", "img_sporty":"f1, fotbal", "Sporty":"F1, fotbal, tenis", "Účel":"Relaxace, navození euforie", "Mechanismus":"Různé působení na centrální nervový systém", "Rizika":"Třes, arytmie, náhlá srdeční smrt, selhání životních funkcí, psychické nemoci", "Aplikace":"Cigareta", "zdroje":""},
-  "Kortizol": { "img":"kortizol", "Skupina":"Glukokortikoidy", "img_sporty":"cyklo, kultur", "Sporty":"cyklistika, kulturistika", "Účel":"Rychlejší tvorba svalové hmoty", "Mechanismus":"Hormon kortizol, který se produkuje při stresu nebo delší fyzické zátěži, brání tvorbě svalů. Snížení jeho hladiny vede k růstu svaloviny i při delším tréninku.", "Rizika":"Metabolický rozvrat, osteoporóza, poruchy endokrinních žláz, poruchy imunity", "Aplikace":"Kapky do nosu", "zdroje":"http://drdoping.com/blog/cortisol-and-sport/"},
-  "Metoprolol": { "img":"metoprolol", "Skupina":"Beta-blokátory", "img_sporty":"f1, luk", "Sporty":"lukostřelba, golf, F1, skoky na lyžích", "Účel":"Uklidnění před a při výkonu", "Mechanismus":"Snížení tepové frekvence a krevního tlaku", "Rizika":"Náhlá srdeční smrt, arytmie", "Aplikace":"Prášek", "zdroje":""},
-  "Pomocný motor": { "img":"pomocny_motor", "Skupina":"Mechanický doping", "img_sporty":"cyklo", "Sporty":"cyklistika", "Účel":"Zvýšení výkonu v maximálních zátěžích", "Mechanismus":"Motor v rámu kola", "Rizika":"Kouř", "Aplikace":"Bazmek (http://supercycling.cz/assets/Uploads/DopingElektro-motor-cl.jpg)", "zdroje":""}
+  "Anabolic steroids":{
+     "img":"testosteron",
+     "Skupina":"Anabolic steroids",
+     "img_sporty":"cyklo, sprint, bezky, kultur, koule, vzper, plavani",
+     "Purpose":"Faster development of muscle mass",
+     "Mechanism":"A higher dose of male hormones results in faster growth of muscles, production of osseous tissue, red blood cells and neural links.",
+     "Risks":"Risk of sudden death, liver / kidney dysfunction, mental changes (aggression, decrease / increase in libido), male features in women, risk of prostate enlargement and carcinoma and gynaecomastia (enlarged mammary glands) in men."
+  },
+  "Erythro-<br>poietin":{
+     "img":"erytropoetin",
+     "Skupina":"Peptidové hormony",
+     "img_sporty":"cyklo, sprint, bezky, beh",
+     "Purpose":"Endurance enhancement",
+     "Mechanism":"Increase in the number of red blood cells.",
+     "Risks":"Sudden cardiac death, ictus."
+  },
+  "Growth hormone":{
+     "img":"rust_hormon",
+     "Skupina":"Růstové faktory",
+     "img_sporty":"cyklo, sprint",
+     "Purpose":"Faster development of muscle mass, faster treatment of injuries",
+     "Mechanism":"Faster regeneration by means of changes in metabolism; the effect is not quite clear.",
+     "Risks":"Internal milieu disorder, acromegaly (excessive growth of different parts of the body or internal organs)."
+  },
+  "Clenbuterol":{
+     "img":"clenbuterol",
+     "Skupina":"Beta2- agonisté",
+     "img_sporty":"kultur, sprint, beh, koule, vzper, plavani",
+     "Purpose":"Muscle mass preservation, better defined muscles",
+     "Mechanism":"It relaxes muscles in the area of the air passages; as a side effect it speeds up metabolism and therefore fat burning too. There is no loss in muscle mass; according to some studies it even speeds up muscle growth. ",
+     "Risks":"Arrhythmia, tremor, mental changes."
+  },
+  "Salbutamol":{
+     "img":"salbutamol",
+     "Skupina":"Beta2- agonisté",
+     "img_sporty":"cyklo, bezky, beh",
+     "Purpose":"Improvement in breathing, possible improvement of maximum performance ",
+     "Mechanism":"It relaxes muscles in the area of the air passages, which is why it is used as medicine for asthma. According to some studies it increases maximum performance.",
+     "Risks":"Tremor, lower performance, arrhythmia, high temperatures."
+  },
+  "Insulin":{
+     "img":"inzulin",
+     "Skupina":"Hormonové/metabolické modulátory",
+     "img_sporty":"cyklo, kultur, sprint",
+     "Purpose":"Faster development of muscle mass, better defined muscles",
+     "Mechanism":"The level of insulin influences the burning of saccharides. A low level during inactivity means lower deposition of fat, while a higher level during training leads to faster growth of muscles.",
+     "Risks":"Internal milieu breakdown, liver and kidney failure."
+  },
+  "Blood transfusion":{
+     "img":"transfuze",
+     "Skupina":"",
+     "img_sporty":"cyklo, bezky",
+     "Purpose":"Endurance enhancements",
+     "Mechanism":"Transfusion of somebody else’s blood or one’s own frozen blood: the number of red cells is restored after the performance.",
+     "Risks":"Sudden cardiac death, ictus."
+  },
+  "Genetic doping":{
+     "img":"genovy_doping",
+     "Skupina":"",
+     "img_sporty":"dolly",
+     "Purpose":"Various effects",
+     "Mechanism":"Various modifications of genetic information.",
+     "Risks":"Many possible potentially harmful or fatal effects."
+  },
+  "Amphe-<br>tamine, cocaine, marijuana":{
+     "img":"trava",
+     "Skupina":"Narkotika",
+     "img_sporty":"f1, fotbal",
+     "Purpose":"Relaxation, induction of euphoria",
+     "Mechanism":"Various effects on the central nervous system.",
+     "Risks":"Tremor, arrhythmia, sudden cardiac death, vital functions failure, mental illnesses."
+  },
+  "Cortisol":{
+     "img":"kortizol",
+     "Skupina":"Glukokortikoidy",
+     "img_sporty":"cyklo, kultur",
+     "Purpose":"Faster development of muscle mass",
+     "Mechanism":"Cortisol is a hormone produced during stress or higher physical strain. It prevents muscles from being formed. If its level is decreased, it leads to the growth of muscle mass even during long training.",
+     "Risks":"Metabolic breakdown, osteoporosis, disorders of endocrine glands, immunity disorder."
+  },
+  "Metoprolol":{
+     "img":"metoprolol",
+     "Skupina":"Beta-blokátory",
+     "img_sporty":"f1, luk",
+     "Purpose":"Calming before and after performance",
+     "Mechanism":"Decrease in heart rate and blood pressure.",
+     "Risks":"Sudden cardiac death, arrhythmia."
+  },
+  "Secret motor":{
+     "img":"pomocny_motor",
+     "Skupina":"Mechanický doping",
+     "img_sporty":"cyklo",
+     "Purpose":"Performance enhancement at maximum load",
+     "Mechanism":"A motor in bicycle frame.",
+     "Risks":"Smoke."
+  }
 };

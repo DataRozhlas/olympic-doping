@@ -10,7 +10,7 @@ $('#hra').append('<div id="hvezdy">'
     + '<div class="persona "><img alt="chambers" src="https://dev.datarozhlas.cz/olympiada-doping/img/chambers.jpg" class="ico hvezda"><br>Chambers</div>'
     + '</div>')
 $('#hra').append('<div id="sport"><img class="sportimg" src="https://dev.datarozhlas.cz/olympiada-doping/img/clovek.jpg"></div>')
-$('#details').html('<p class="servisni">Vyberte si doping</p>')
+$('#details').html('<p class="servisni">Choose your doping</p>')
 
 var list_omit = ['sporty', 'Aplikace', 'zdroje', 'img', 'img_sporty', 'Skupina', 'Sporty']
 
@@ -19,7 +19,7 @@ $('.fet').on('click', function(e) {
     var fet = $(this).attr("alt");
     $('.sel').removeClass('sel')
     $(this).addClass('sel')
-    
+
     var detail = '<div class="detail" alt="' + fet + '"><b>' + fet + '</b><br>'
 
     Object.keys(latky[fet]).forEach(function(key) {
@@ -38,8 +38,8 @@ $('.fet').on('click', function(e) {
     $('#sport').html(imgs)
 })
 
-var armstrong = ['Anabolické steroidy', 'Lidský růstový hormon', 'Testosteron', 'Kortizol', 'Krevní transfúze'];
-var chambers = ['Tetrahydrogestrinon', 'Testosteron', 'Erytropoetin', 'HGH', 'Inzulin', 'Modafinil', 'Lidský růstový hormon'];
+var armstrong = ['Anabolic steroids', 'Growth hormone', 'Testosteron', 'Cortisol', 'Blood transfusion'];
+var chambers = ['Tetrahydrogestrinon', 'Testosterone', 'Erythropoietin', 'HGH', 'Insulin', 'Modafinil', 'Growth hormone'];
 
 function unwind(arr) {
     var out = '';
