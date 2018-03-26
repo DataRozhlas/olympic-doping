@@ -97,7 +97,7 @@ The male marathon, at least until the end of the 1980s, when endurance enhancing
 
 The following graphs show the same data in greater detail. They focus on the 1970s and 80s, when anabolics were most widely spread. They don’t show records but only the best performances.
 
-<wide><div style="overflow: hidden; box-sizing: border-box;"><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/koule.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping-doping/fotky/grafy2/disk.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/400m.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/maraton.png" style="max-width: 100%; position: relative; float: left"/></div></wide>
+<wide><div style="overflow: hidden; box-sizing: border-box;"><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/koule.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/disk.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/400m.png" style="max-width: 100%; position: relative; float: left"/><div><img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/maraton.png" style="max-width: 100%; position: relative; float: left"/></div></wide>
 
 <img src="https://dev.datarozhlas.cz/olympic-doping/fotky/grafy2/legenda.png">
 
